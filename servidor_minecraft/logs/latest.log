@@ -206,3 +206,9 @@
 [21:37:22] [Server thread/INFO]: [XxClemexX: Gave 1 [Bamboo Sign] to XxClemexX]
 [21:37:34] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
 [21:37:34] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
+[21:49:25] [Server thread/INFO]: XxClemexX has made the advancement [Hidden in the Depths]
+[22:10:50] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[22:10:50] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[22:11:30] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[22:11:30] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[22:11:38] [Server thread/INFO]: Villager Villager['Farmer'/2133, uuid='5ac52e56-1e18-4dbf-bb69-eee3352b9143', l='ServerLevel[world]', x=-1551.51, y=71.00, z=-1045.50, cpos=[-97, -66], tl=99132, v=true] died, message: 'Farmer was slain by Zombie'
