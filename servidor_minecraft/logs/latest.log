@@ -1,239 +1,96 @@
-[00:06:08] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[00:06:08] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-19-main@c0bd568 (2025-04-14T20:15:35Z) for Minecraft 1.21.5
-[00:06:08] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:06:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[00:06:10] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+[19:28:50] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[19:28:50] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-19-main@c0bd568 (2025-04-14T20:15:35Z) for Minecraft 1.21.5
+[19:28:50] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:28:51] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[19:28:51] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
  - GSit (2.4.0), Geyser-Spigot (2.7.2-SNAPSHOT), SkinsRestorer (15.7.1), ViaBackwards (5.4.0-SNAPSHOT), ViaRewind (4.0.8-SNAPSHOT), ViaVersion (5.4.0), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
-[00:06:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:06:18] [ServerMain/INFO]: Loaded 1373 recipes
-[00:06:18] [ServerMain/INFO]: Loaded 1484 advancements
-[00:06:18] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[00:06:18] [Server thread/INFO]: Loading properties
-[00:06:18] [Server thread/INFO]: This server is running Paper version 1.21.5-19-main@c0bd568 (2025-04-14T20:15:35Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
-[00:06:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:06:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:06:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:06:20] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[00:06:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[00:06:20] [Server thread/INFO]: Default game type: SURVIVAL
-[00:06:20] [Server thread/INFO]: Generating keypair
-[00:06:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:06:20] [Server thread/INFO]: Using epoll channel type
-[00:06:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:06:20] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[00:06:21] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.0
-[00:06:21] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.0 is now loaded. Registering protocol transformers and injecting...
-[00:06:22] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[00:06:22] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[00:06:22] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[00:06:22] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[00:06:23] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[00:06:23] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[00:06:24] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[00:06:24] [Server thread/INFO]: [floodgate] Took 1,135ms to boot Floodgate
-[00:06:24] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.0-SNAPSHOT
-[00:06:24] [Server thread/INFO]: [GSit] Loading server plugin GSit v2.4.0
-[00:06:24] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.2-SNAPSHOT
-[00:06:25] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[00:06:25] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[00:06:25] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.8-SNAPSHOT
-[00:06:25] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.1
-[00:06:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:06:25] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.8-SNAPSHOT
-[00:06:25] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.1
-[00:06:26] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.5.
-[00:06:26] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[00:06:27] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[00:06:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:06:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:06:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:06:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:06:27] [Server thread/INFO]: Preparing level "world"
-[00:06:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:06:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:06:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:06:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[00:06:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:06:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:06:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:06:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.1
-[00:06:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: f77fbd4
-[00:06:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[00:06:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:06:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[00:06:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[00:06:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:06:28] [Server thread/INFO]: Preparing spawn area: 0%
-[00:06:28] [Server thread/INFO]: Preparing spawn area: 2%
-[00:06:29] [Server thread/INFO]: Preparing spawn area: 26%
-[00:06:29] [Server thread/INFO]: Time elapsed: 1173 ms
-[00:06:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:06:29] [Server thread/INFO]: Preparing spawn area: 0%
-[00:06:29] [Server thread/INFO]: Time elapsed: 328 ms
-[00:06:29] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.0
-[00:06:29] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.5 (770)
-[00:06:29] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[00:06:30] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.0-SNAPSHOT
-[00:06:30] [Server thread/INFO]: [GSit] Enabling GSit v2.4.0
-[00:06:30] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
-[00:06:30] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.2-SNAPSHOT
-[00:06:30] [Server thread/INFO]: [spark] Starting background profiler...
-[00:06:31] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:06:31] [Server thread/INFO]: [Geyser-Spigot] 
-[00:06:31] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.2-b858 (git-master-5627107)
-[00:06:31] [Server thread/INFO]: [Geyser-Spigot] 
-[00:06:31] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:06:35] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2877
-[00:06:35] [Server thread/INFO]: [Geyser-Spigot] Done (4.652s)! Run /geyser help for help!
-[00:06:35] [Server thread/INFO]: Done preparing level "world" (8.387s)
-[00:06:35] [Server thread/INFO]: Running delayed init tasks
-[00:06:35] [Craft Scheduler Thread - 3 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[00:06:35] [Server thread/INFO]: Done (29.260s)! For help, type "help"
-[00:26:04] [User Authenticator #0/INFO]: UUID of player WaPapAu19 is bc3552b6-6732-35a1-a44d-1460a804648f
-[00:26:06] [Server thread/INFO]: WaPapAu19 joined the game
-[00:26:06] [Server thread/INFO]: WaPapAu19[/127.169.148.187:37669] logged in with entity id 18 at ([world]7950.276170239546, -41.0, -5894.022857905947)
-[00:38:08] [Server thread/INFO]: WaPapAu19 lost connection: Disconnected
-[00:38:08] [Server thread/INFO]: WaPapAu19 left the game
-[00:38:59] [User Authenticator #1/INFO]: UUID of player WaPapAu19 is bc3552b6-6732-35a1-a44d-1460a804648f
-[00:39:00] [Server thread/INFO]: WaPapAu19 joined the game
-[00:39:00] [Server thread/INFO]: WaPapAu19[/127.169.148.187:43285] logged in with entity id 4115 at ([world]8016.985932843549, 62.11076431274414, -5782.700664788684)
-[00:39:39] [Server thread/INFO]: WaPapAu19 lost connection: Disconnected
-[00:39:39] [Server thread/INFO]: WaPapAu19 left the game
-[00:39:44] [User Authenticator #1/INFO]: UUID of player WaPapAu19 is bc3552b6-6732-35a1-a44d-1460a804648f
-[00:39:45] [Server thread/INFO]: WaPapAu19 joined the game
-[00:39:45] [Server thread/INFO]: WaPapAu19[/127.169.148.187:59569] logged in with entity id 4438 at ([world]8016.985932843549, 62.11076431274414, -5782.700664788684)
-[00:43:22] [User Authenticator #2/INFO]: UUID of player Pedrinho08082010 is 4417e01d-690d-3020-b15e-49d9cd099c70
-[00:43:23] [Server thread/INFO]: Pedrinho08082010 joined the game
-[00:43:23] [Server thread/INFO]: Pedrinho08082010[/127.182.138.191:57147] logged in with entity id 5701 at ([world]3304.5720968837327, -41.0, -2871.533036107493)
-[00:43:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Pedrinho08082010> skibidi sigma
-[00:43:41] [Async Chat Thread - #1/INFO]: [Not Secure] <WaPapAu19> hablemos por el equipo asiatico
-[00:57:23] [Server thread/INFO]: Pedrinho08082010 was slain by Enderman
-[01:04:41] [Server thread/INFO]: WaPapAu19 has made the advancement [Hot Stuff]
-[01:05:10] [User Authenticator #3/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
-[01:05:12] [Server thread/INFO]: XxClemexX joined the game
-[01:05:12] [Server thread/INFO]: XxClemexX[/127.125.129.41:35409] logged in with entity id 18837 at ([world]2500.858074694496, -50.0, -4325.626150594953)
-[01:09:12] [Async Chat Thread - #2/INFO]: [Not Secure] <XxClemexX> buenas
-[01:09:21] [Async Chat Thread - #2/INFO]: [Not Secure] <WaPapAu19> priviyt
-[01:10:20] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[01:10:20] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[01:12:14] [Server thread/INFO]: XxClemexX issued server command: /give XxClemexX minecraft:bundle
-[01:12:14] [Server thread/INFO]: [XxClemexX: Gave 1 [Bundle] to XxClemexX]
-[01:14:24] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
-[01:14:24] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
-[01:14:32] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[01:14:32] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[01:14:38] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
-[01:14:38] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
-[01:14:43] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[01:14:43] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[01:15:53] [User Authenticator #4/INFO]: UUID of player Mr_Martin14 is 3b05648d-9204-3333-a32e-8f68f50e0a67
-[01:15:54] [Server thread/INFO]: Mr_Martin14 joined the game
-[01:15:54] [Server thread/INFO]: Mr_Martin14[/127.182.205.89:49885] logged in with entity id 29070 at ([world]9201.756567268885, 48.0, -2002.758711269187)
-[01:16:13] [Async Chat Thread - #4/INFO]: [Not Secure] <WaPapAu19> privyet Mario
-[01:16:40] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[01:16:40] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[01:17:02] [Server thread/INFO]: Mr_Martin14 has made the advancement [Cover Me with Diamonds]
-[01:17:21] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
-[01:17:21] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
-[01:17:23] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[01:17:23] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[01:22:36] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[01:22:36] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[01:22:58] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[01:22:58] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[01:28:10] [Server thread/INFO]: WaPapAu19 has made the advancement [Enchanter]
-[01:28:55] [Async Chat Thread - #6/INFO]: [Not Secure] <WaPapAu19> past
-[01:29:01] [Async Chat Thread - #6/INFO]: [Not Secure] <WaPapAu19> lives
-[01:29:10] [Async Chat Thread - #6/INFO]: [Not Secure] <Pedrinho08082010> ololoeneodpeo
-[01:29:13] [Async Chat Thread - #6/INFO]: [Not Secure] <Pedrinho08082010> nddeofne
-[01:29:15] [Async Chat Thread - #6/INFO]: [Not Secure] <Mr_Martin14> gras
-[01:29:18] [Async Chat Thread - #6/INFO]: [Not Secure] <Pedrinho08082010> s
-[01:29:20] [Async Chat Thread - #6/INFO]: [Not Secure] <Pedrinho08082010> pastp
-[01:29:23] [Async Chat Thread - #6/INFO]: [Not Secure] <Pedrinho08082010> pasto
-[01:30:44] [Server thread/INFO]: WaPapAu19 lost connection: Disconnected
-[01:30:44] [Server thread/INFO]: WaPapAu19 left the game
-[01:31:03] [User Authenticator #5/INFO]: UUID of player WaPapAu19 is bc3552b6-6732-35a1-a44d-1460a804648f
-[01:31:04] [Server thread/INFO]: WaPapAu19 joined the game
-[01:31:04] [Server thread/INFO]: WaPapAu19[/127.169.148.187:37497] logged in with entity id 39689 at ([world]7950.075391128893, -39.799999952316284, -5905.021931174395)
-[01:39:46] [Server thread/INFO]: Mr_Martin14 has made the advancement [Who is Cutting Onions?]
-[01:39:52] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[01:39:52] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[01:42:02] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
-[01:42:02] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
-[01:42:04] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[01:42:04] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[01:48:43] [Server thread/INFO]: Pedrinho08082010 has made the advancement [Ice Bucket Challenge]
-[01:59:42] [Server thread/INFO]: Mr_Martin14 has completed the challenge [Hot Tourist Destinations]
-[02:05:09] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[02:05:09] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[02:06:16] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
-[02:06:16] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
-[02:06:18] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[02:06:18] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[02:06:50] [Server thread/INFO]: WaPapAu19 has made the advancement [We Need to Go Deeper]
-[02:06:50] [Server thread/INFO]: Pedrinho08082010 has made the advancement [We Need to Go Deeper]
-[02:07:18] [Server thread/INFO]: WaPapAu19 lost connection: Disconnected
-[02:07:18] [Server thread/INFO]: WaPapAu19 left the game
-[02:10:33] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[02:10:33] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[02:10:40] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
-[02:10:40] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
-[02:10:41] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[02:10:41] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[02:10:45] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[02:10:45] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[02:11:12] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[02:11:12] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[02:16:12] [Server thread/INFO]: Mr_Martin14 was doomed to fall by Piglin Brute
-[02:29:00] [Server thread/INFO]: Pedrinho08082010 has made the advancement [Those Were the Days]
-[02:29:48] [Server thread/INFO]: Pedrinho08082010 has made the advancement [Take Aim]
-[02:34:28] [Server thread/INFO]: Pedrinho08082010 has made the advancement [Hot Stuff]
-[02:42:53] [Server thread/INFO]: Mr_Martin14 lost connection: Disconnected
-[02:42:53] [Server thread/INFO]: Mr_Martin14 left the game
-[02:45:24] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[02:45:24] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[02:48:25] [Server thread/INFO]: XxClemexX issued server command: /tp 0 100 0
-[02:48:25] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 0.500000, 100.000000, 0.500000]
-[02:49:05] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[02:49:05] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[02:49:33] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
-[02:49:33] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
-[02:51:54] [Server thread/INFO]: Pedrinho08082010 has made the advancement [War Pigs]
-[02:56:37] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[02:56:37] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[02:56:55] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[02:56:57] [Server thread/INFO]: XxClemexX issued server command: /tp 0 100 0
-[02:56:57] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 0.500000, 100.000000, 0.500000]
-[02:57:20] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[02:57:20] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[02:57:41] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[02:57:41] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[02:58:35] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[02:58:35] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[02:58:49] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
-[02:58:49] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
-[03:25:50] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[03:25:50] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[03:26:05] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[03:26:05] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[03:27:55] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[03:27:55] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[03:28:02] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[03:28:02] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[03:28:18] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[03:28:18] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[03:28:24] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[03:28:24] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[03:28:28] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[03:28:28] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[03:28:33] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[03:28:33] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[03:29:18] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
-[03:29:18] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
-[03:29:21] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
-[03:29:21] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
-[03:31:18] [Server thread/INFO]: Villager Villager['Fletcher'/77289, uuid='b3275260-413a-45b6-b48f-42ef3067af6e', l='ServerLevel[world]', x=2514.51, y=-49.95, z=-4329.37, cpos=[157, -271], tl=33624, v=true] died, message: 'Fletcher tried to swim in lava'
-[03:38:00] [Server thread/INFO]: Pedrinho08082010 lost connection: Disconnected
-[03:38:00] [Server thread/INFO]: Pedrinho08082010 left the game
-[03:38:01] [Server thread/INFO]: XxClemexX lost connection: Disconnected
-[03:38:01] [Server thread/INFO]: XxClemexX left the game
+[19:28:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:29:01] [ServerMain/INFO]: Loaded 1373 recipes
+[19:29:01] [ServerMain/INFO]: Loaded 1484 advancements
+[19:29:01] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[19:29:01] [Server thread/INFO]: Loading properties
+[19:29:01] [Server thread/INFO]: This server is running Paper version 1.21.5-19-main@c0bd568 (2025-04-14T20:15:35Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[19:29:01] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:29:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:29:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:29:02] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[19:29:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[19:29:03] [Server thread/INFO]: Default game type: SURVIVAL
+[19:29:03] [Server thread/INFO]: Generating keypair
+[19:29:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:29:03] [Server thread/INFO]: Using epoll channel type
+[19:29:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:29:03] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[19:29:04] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.0
+[19:29:04] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.0 is now loaded. Registering protocol transformers and injecting...
+[19:29:04] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:29:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:29:05] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:29:05] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:29:06] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[19:29:06] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[19:29:07] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[19:29:07] [Server thread/INFO]: [floodgate] Took 1,266ms to boot Floodgate
+[19:29:07] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.0-SNAPSHOT
+[19:29:07] [Server thread/INFO]: [GSit] Loading server plugin GSit v2.4.0
+[19:29:08] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.2-SNAPSHOT
+[19:29:09] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[19:29:09] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[19:29:09] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.8-SNAPSHOT
+[19:29:09] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.1
+[19:29:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:29:09] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.8-SNAPSHOT
+[19:29:09] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.1
+[19:29:10] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.5.
+[19:29:10] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[19:29:10] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[19:29:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:29:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:29:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:29:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:29:10] [Server thread/INFO]: Preparing level "world"
+[19:29:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:29:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:29:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[19:29:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[19:29:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[19:29:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:29:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:29:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.1
+[19:29:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: f77fbd4
+[19:29:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[19:29:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:29:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[19:29:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[19:29:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:29:12] [Server thread/INFO]: Preparing spawn area: 0%
+[19:29:12] [Server thread/INFO]: Preparing spawn area: 0%
+[19:29:12] [Server thread/INFO]: Preparing spawn area: 16%
+[19:29:13] [Server thread/INFO]: Preparing spawn area: 26%
+[19:29:13] [Server thread/INFO]: Preparing spawn area: 26%
+[19:29:13] [Server thread/INFO]: Time elapsed: 2065 ms
+[19:29:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:29:13] [Server thread/INFO]: Preparing spawn area: 0%
+[19:29:14] [Server thread/INFO]: Time elapsed: 266 ms
+[19:29:14] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.0
+[19:29:14] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.5 (770)
+[19:29:14] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[19:29:14] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.0-SNAPSHOT
+[19:29:14] [Server thread/INFO]: [GSit] Enabling GSit v2.4.0
+[19:29:14] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[19:29:14] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.2-SNAPSHOT
+[19:29:15] [Server thread/INFO]: [spark] Starting background profiler...
+[19:29:15] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:29:15] [Server thread/INFO]: [Geyser-Spigot] 
+[19:29:15] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.2-b858 (git-master-5627107)
+[19:29:15] [Server thread/INFO]: [Geyser-Spigot] 
+[19:29:15] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:29:21] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2877
+[19:29:21] [Server thread/INFO]: [Geyser-Spigot] Done (5.46s)! Run /geyser help for help!
+[19:29:21] [Server thread/INFO]: Done preparing level "world" (10.604s)
+[19:29:21] [Server thread/INFO]: Running delayed init tasks
+[19:29:21] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[19:29:21] [Server thread/INFO]: Done (32.365s)! For help, type "help"
+[19:37:31] [User Authenticator #0/INFO]: UUID of player caseellii is dadf9ffc-f8a0-389a-b947-d6d83b9d7dad
+[19:37:33] [Server thread/INFO]: caseellii joined the game
+[19:37:33] [Server thread/INFO]: caseellii[/127.114.207.149:51451] logged in with entity id 13 at ([world]-9.5, 64.0, -5.5)
