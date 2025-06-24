@@ -212,3 +212,10 @@
 [22:11:30] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
 [22:11:30] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
 [22:11:38] [Server thread/INFO]: Villager Villager['Farmer'/2133, uuid='5ac52e56-1e18-4dbf-bb69-eee3352b9143', l='ServerLevel[world]', x=-1551.51, y=71.00, z=-1045.50, cpos=[-97, -66], tl=99132, v=true] died, message: 'Farmer was slain by Zombie'
+[22:15:55] [Server thread/INFO]: caseellii lost connection: Disconnected
+[22:15:55] [Server thread/INFO]: caseellii left the game
+[22:16:10] [User Authenticator #2/INFO]: UUID of player caseellii is dadf9ffc-f8a0-389a-b947-d6d83b9d7dad
+[22:16:11] [Server thread/INFO]: caseellii joined the game
+[22:16:11] [Server thread/INFO]: caseellii[/127.114.207.149:40731] logged in with entity id 24649 at ([world]-1537.4429007118201, 51.0, -1061.699999988079)
+[22:16:20] [Server thread/INFO]: caseellii lost connection: Disconnected
+[22:16:20] [Server thread/INFO]: caseellii left the game
