@@ -212,3 +212,7 @@
 [02:58:35] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
 [02:58:49] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
 [02:58:49] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
+[03:25:50] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:25:50] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:26:05] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:26:05] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
