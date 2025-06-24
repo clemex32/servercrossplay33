@@ -216,3 +216,20 @@
 [03:25:50] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
 [03:26:05] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
 [03:26:05] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:27:55] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:27:55] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:28:02] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:28:02] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:28:18] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:28:18] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:28:24] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:28:24] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:28:28] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:28:28] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:28:33] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:28:33] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:29:18] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:29:18] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:29:21] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:29:21] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:31:18] [Server thread/INFO]: Villager Villager['Fletcher'/77289, uuid='b3275260-413a-45b6-b48f-42ef3067af6e', l='ServerLevel[world]', x=2514.51, y=-49.95, z=-4329.37, cpos=[157, -271], tl=33624, v=true] died, message: 'Fletcher tried to swim in lava'
