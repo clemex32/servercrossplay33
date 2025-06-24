@@ -190,3 +190,12 @@
 [02:34:28] [Server thread/INFO]: Pedrinho08082010 has made the advancement [Hot Stuff]
 [02:42:53] [Server thread/INFO]: Mr_Martin14 lost connection: Disconnected
 [02:42:53] [Server thread/INFO]: Mr_Martin14 left the game
+[02:45:24] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[02:45:24] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[02:48:25] [Server thread/INFO]: XxClemexX issued server command: /tp 0 100 0
+[02:48:25] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 0.500000, 100.000000, 0.500000]
+[02:49:05] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[02:49:05] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[02:49:33] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
+[02:49:33] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
+[02:51:54] [Server thread/INFO]: Pedrinho08082010 has made the advancement [War Pigs]
