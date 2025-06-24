@@ -155,3 +155,10 @@
 [01:31:03] [User Authenticator #5/INFO]: UUID of player WaPapAu19 is bc3552b6-6732-35a1-a44d-1460a804648f
 [01:31:04] [Server thread/INFO]: WaPapAu19 joined the game
 [01:31:04] [Server thread/INFO]: WaPapAu19[/127.169.148.187:37497] logged in with entity id 39689 at ([world]7950.075391128893, -39.799999952316284, -5905.021931174395)
+[01:39:46] [Server thread/INFO]: Mr_Martin14 has made the advancement [Who is Cutting Onions?]
+[01:39:52] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[01:39:52] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[01:42:02] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
+[01:42:02] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
+[01:42:04] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[01:42:04] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
