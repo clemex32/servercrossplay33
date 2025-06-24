@@ -89,3 +89,6 @@
 [00:06:35] [Server thread/INFO]: Running delayed init tasks
 [00:06:35] [Craft Scheduler Thread - 3 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [00:06:35] [Server thread/INFO]: Done (29.260s)! For help, type "help"
+[00:26:04] [User Authenticator #0/INFO]: UUID of player WaPapAu19 is bc3552b6-6732-35a1-a44d-1460a804648f
+[00:26:06] [Server thread/INFO]: WaPapAu19 joined the game
+[00:26:06] [Server thread/INFO]: WaPapAu19[/127.169.148.187:37669] logged in with entity id 18 at ([world]7950.276170239546, -41.0, -5894.022857905947)
