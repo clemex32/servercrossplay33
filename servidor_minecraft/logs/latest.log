@@ -537,3 +537,13 @@
 [05:56:09] [Server thread/INFO]: [XxClemexX: Made XxClemexX no longer a server operator]
 [06:07:03] [Server thread/INFO]: Gave 1 [Ominous Bottle] to XxClemexX
 [06:12:08] [Server thread/INFO]: TRexGamer250 was shot by Bogged
+[06:22:20] [Server thread/INFO]: Gave 1 [Ominous Trial Key] to XxClemexX
+[06:28:00] [Server thread/INFO]: Made XxClemexX a server operator
+[06:28:06] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[06:28:06] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[06:28:22] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[06:28:22] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[06:28:33] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[06:28:33] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[06:28:45] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[06:28:45] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
