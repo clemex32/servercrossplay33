@@ -125,3 +125,50 @@
 [20:06:52] [Server thread/INFO]: .BarterArt934436 joined the game
 [20:06:52] [Server thread/INFO]: .BarterArt934436[/127.0.0.1:0] logged in with entity id 30015 at ([world]5.768951, 69.04287999847412, 8.429233)
 [20:07:24] [Server thread/WARN]: .BarterArt934436 moved too quickly! 3.7279850000000003,0.37671999999999173,-9.3796244
+[20:09:19] [Server thread/WARN]: .BarterArt934436 was kicked for floating too long!
+[20:09:19] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .BarterArt934436 disconnected
+[20:09:19] [Server thread/INFO]: .BarterArt934436 lost connection: Flying is not enabled on this server
+[20:09:19] [localSession-7-3/INFO]: [Geyser-Spigot] BarterArt934436 has disconnected from the Java server because of Flying is not enabled on this server
+[20:09:19] [Server thread/INFO]: .BarterArt934436 left the game
+[20:09:28] [Server thread/INFO]: Pedrinho08082010 has made the advancement [Enchanter]
+[20:10:53] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username BarterArt934436
+[20:10:53] [localSession-7-4/INFO]: [Geyser-Spigot] BarterArt934436 (logged in as: BarterArt934436) has connected to the Java server
+[20:10:54] [User Authenticator #2/INFO]: UUID of player BarterArt934436 is 8cd58d4f-2616-3058-b4a5-05f30f8d4a49
+[20:10:54] [Server thread/INFO]: BarterArt934436 joined the game
+[20:10:54] [Server thread/INFO]: BarterArt934436[/127.0.0.1:0] logged in with entity id 32850 at ([world]9.5, 69.0, 1.5)
+[20:11:26] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] BarterArt934436 has disconnected from the Java server because of Bedrock client timed out
+[20:11:26] [Server thread/INFO]: BarterArt934436 lost connection: Disconnected
+[20:11:26] [Server thread/INFO]: BarterArt934436 left the game
+[20:12:09] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username BarterArt934436
+[20:12:09] [localSession-7-1/INFO]: [Geyser-Spigot] BarterArt934436 (logged in as: BarterArt934436) has connected to the Java server
+[20:12:09] [Server thread/INFO]: [floodgate] Floodgate player logged in as .BarterArt934436 joined (UUID: 00000000-0000-0000-0009-01f3c5a4aa26)
+[20:12:09] [Server thread/INFO]: .BarterArt934436 joined the game
+[20:12:09] [Server thread/INFO]: .BarterArt934436[/127.0.0.1:0] logged in with entity id 33795 at ([world]-77.610794, 64.0, 5.54215)
+[20:12:26] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .BarterArt934436 disconnected
+[20:12:26] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] BarterArt934436 has disconnected from the Java server because of Bedrock client timed out
+[20:12:26] [Server thread/INFO]: .BarterArt934436 lost connection: Disconnected
+[20:12:26] [Server thread/INFO]: .BarterArt934436 left the game
+[20:14:51] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username BarterArt934436
+[20:14:51] [localSession-7-2/INFO]: [Geyser-Spigot] BarterArt934436 (logged in as: BarterArt934436) has connected to the Java server
+[20:14:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .BarterArt934436 joined (UUID: 00000000-0000-0000-0009-01f3c5a4aa26)
+[20:14:51] [Server thread/INFO]: .BarterArt934436 joined the game
+[20:14:51] [Server thread/INFO]: .BarterArt934436[/127.0.0.1:0] logged in with entity id 34663 at ([world]-75.851265, 64.0, 4.97823)
+[20:15:22] [Server thread/INFO]: .BarterArt934436 was slain by Zombie
+[20:15:26] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .BarterArt934436 disconnected
+[20:15:26] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] BarterArt934436 has disconnected from the Java server because of Bedrock client timed out
+[20:15:26] [Server thread/INFO]: .BarterArt934436 lost connection: Disconnected
+[20:15:26] [Server thread/INFO]: .BarterArt934436 left the game
+[20:15:31] [Async Chat Thread - #4/INFO]: [Not Secure] <WaPapAu19> malo culia
+[20:15:52] [Server thread/WARN]: Oak Boat (vehicle of WaPapAu19) moved wrongly! 0.25507440203967274
+[20:16:10] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username BarterArt934436
+[20:16:10] [localSession-7-3/INFO]: [Geyser-Spigot] BarterArt934436 (logged in as: BarterArt934436) has connected to the Java server
+[20:16:10] [Server thread/INFO]: [floodgate] Floodgate player logged in as .BarterArt934436 joined (UUID: 00000000-0000-0000-0009-01f3c5a4aa26)
+[20:16:10] [Server thread/INFO]: .BarterArt934436 joined the game
+[20:16:10] [Server thread/INFO]: .BarterArt934436[/127.0.0.1:0] logged in with entity id 35509 at ([world]-79.53542, 65.0, -1.7200588)
+[20:17:00] [Server thread/INFO]: .BarterArt934436 was slain by Zombie
+[20:17:06] [Async Chat Thread - #5/INFO]: [Not Secure] <Mr_Martin14> tu puedes fiera
+[20:17:32] [Async Chat Thread - #5/INFO]: [Not Secure] <.BarterArt934436> Me anda super lagueado
+[20:17:40] [Async Chat Thread - #5/INFO]: [Not Secure] <WaPapAu19> up
+[20:17:47] [Async Chat Thread - #5/INFO]: [Not Secure] <Mr_Martin14> desactiva el vibrant visuals
+[20:17:54] [Async Chat Thread - #5/INFO]: [Not Secure] <WaPapAu19> .BarterArt934436
+[20:19:29] [Async Chat Thread - #7/INFO]: [Not Secure] <.BarterArt934436> Ahi me anda mucho mejor
