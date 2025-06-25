@@ -577,3 +577,46 @@
 [07:03:10] [Server thread/INFO]: [XxClemexX: Gave 1 [Saddle] to XxClemexX]
 [07:04:40] [Server thread/INFO]: XxClemexX has made the advancement [Best Friends Forever]
 [07:05:25] [Server thread/WARN]: Horse (vehicle of XxClemexX) moved wrongly! 0.374750061941716
+[07:11:55] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
+[07:11:55] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
+[07:13:05] [Server thread/INFO]: XxClemexX lost connection: Disconnected
+[07:13:05] [Server thread/INFO]: XxClemexX left the game
+[07:13:27] [Server thread/INFO]: TRexGamer250 lost connection: Disconnected
+[07:13:27] [Server thread/INFO]: TRexGamer250 left the game
+[07:13:33] [Server thread/INFO]: Stopping the server
+[07:13:33] [Server thread/INFO]: Stopping server
+[07:13:33] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.1
+[07:13:33] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.8-SNAPSHOT
+[07:13:33] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.2-SNAPSHOT
+[07:13:33] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[07:13:33] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[07:13:33] [Server thread/INFO]: [GSit] Disabling GSit v2.4.0
+[07:13:33] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[07:13:33] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.0-SNAPSHOT
+[07:13:33] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[07:13:33] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.0
+[07:13:33] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[07:13:33] [Server thread/INFO]: Saving players
+[07:13:33] [WebSocketConnectReadThread-381/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[07:13:33] [Server thread/INFO]: Saving worlds
+[07:13:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:13:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[07:13:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[07:13:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[07:13:35] [Server thread/INFO]: [ChunkHolderManager] Saved 831 block chunks, 1025 entity chunks, 0 poi chunks in world 'world' in 1.71s
+[07:13:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[07:13:35] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[07:13:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:13:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[07:13:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[07:13:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[07:13:35] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[07:13:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[07:13:35] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[07:13:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:13:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:13:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:13:35] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[07:13:35] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[07:13:35] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[07:13:35] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
