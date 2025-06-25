@@ -97,3 +97,23 @@
 [01:25:22] [Server thread/INFO]: WaPapAu19 left the game
 [01:25:24] [Server thread/INFO]: WaPapAu19 joined the game
 [01:25:24] [Server thread/INFO]: WaPapAu19[/127.127.60.14:51089] logged in with entity id 7688 at ([world]7943.559547659874, -41.0, -5898.077911435851)
+[01:33:23] [User Authenticator #2/INFO]: UUID of player Pedrinho08082010 is 4417e01d-690d-3020-b15e-49d9cd099c70
+[01:33:24] [Server thread/INFO]: Pedrinho08082010 joined the game
+[01:33:24] [Server thread/INFO]: Pedrinho08082010[/127.182.138.191:37671] logged in with entity id 8494 at ([world]7935.654055971857, -41.0, -5890.101265914345)
+[01:33:47] [Async Chat Thread - #0/INFO]: [Not Secure] <WaPapAu19> discor
+[01:33:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Pedrinho08082010> ya
+[01:34:38] [User Authenticator #3/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
+[01:34:39] [Server thread/INFO]: XxClemexX joined the game
+[01:34:39] [Server thread/INFO]: XxClemexX[/127.125.129.41:57721] logged in with entity id 8604 at ([world]2501.931270420788, -50.0, -4326.78824573374)
+[01:34:54] [Async Chat Thread - #2/INFO]: [Not Secure] <XxClemexX> buenas
+[01:39:30] [Server thread/WARN]: Oak Boat (vehicle of WaPapAu19) moved wrongly! 0.3285712376837182
+[01:39:30] [Server thread/WARN]: Oak Boat (vehicle of WaPapAu19) moved wrongly! 0.3455865543719483
+[01:39:30] [Server thread/WARN]: Oak Boat (vehicle of WaPapAu19) moved wrongly! 0.3455865543719483
+[01:39:30] [Server thread/WARN]: Oak Boat (vehicle of WaPapAu19) moved wrongly! 0.3455865543719483
+[01:39:36] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[01:39:36] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[01:40:01] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
+[01:40:01] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
+[01:40:05] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[01:40:05] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[01:42:13] [Server thread/INFO]: WaPapAu19 has made the advancement [The Parrots and the Bats]
