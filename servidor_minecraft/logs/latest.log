@@ -303,3 +303,22 @@
 [22:55:25] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
 [22:55:25] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
 [23:03:38] [Server thread/INFO]: TRexGamer250 has made the advancement [A Seedy Place]
+[23:05:59] [User Authenticator #8/INFO]: UUID of player Zmind92 is 2d4e6f62-1931-3e27-b0f5-5b01e7aa7b67
+[23:06:02] [Server thread/INFO]: Zmind92 joined the game
+[23:06:02] [Server thread/INFO]: Zmind92[/127.199.225.162:55959] logged in with entity id 122643 at ([world]2318.8372359231325, 75.5, 1695.0311808376684)
+[23:06:02] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f938a5ff-7c5a-47ae-b470-a8b23ed43203, mapped to Creeper['Creeper'/122655, uuid='f938a5ff-7c5a-47ae-b470-a8b23ed43203', l='ServerLevel[world]', x=2323.48, y=60.00, z=1707.83, cpos=[145, 106], tl=0, v=true], can't add Creeper['Creeper'/122656, uuid='f938a5ff-7c5a-47ae-b470-a8b23ed43203', l='ServerLevel[world]', x=2316.53, y=63.00, z=1720.15, cpos=[144, 107], tl=0, v=false]
+[23:06:46] [Async Chat Thread - #21/INFO]: [Not Secure] <XxClemexX> buenas
+[23:08:43] [Server thread/INFO]: Zmind92 issued server command: /msg XxClemexX Cleme, me tepeo a donde estaba antes, como a 3000 bloques
+[23:08:57] [Server thread/INFO]: XxClemexX issued server command: /tell Zmind92 a si
+[23:09:12] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[23:09:12] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[23:09:37] [Server thread/INFO]: XxClemexX issued server command: /tp -1500 100 -1000
+[23:09:37] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to -1499.500000, 100.000000, -999.500000]
+[23:09:51] [Server thread/INFO]: XxClemexX issued server command: /tp Zmind92 XxClemexX
+[23:09:51] [Server thread/INFO]: [XxClemexX: Teleported Zmind92 to XxClemexX]
+[23:09:59] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[23:09:59] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[23:13:17] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[23:13:17] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[23:13:53] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[23:13:53] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
