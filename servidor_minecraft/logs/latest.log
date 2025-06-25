@@ -118,3 +118,5 @@
 [01:40:05] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
 [01:42:13] [Server thread/INFO]: WaPapAu19 has made the advancement [The Parrots and the Bats]
 [01:49:33] [Async Chat Thread - #4/INFO]: [Not Secure] <WaPapAu19> buenas dias
+[02:12:18] [Server thread/INFO]: Villager Villager['Villager'/11708, uuid='70328e3a-7bd0-4db2-a406-ab4c1690eda6', l='ServerLevel[world]', x=7889.23, y=63.00, z=-5155.06, cpos=[493, -323], tl=37530, v=true] died, message: 'Villager was slain by WaPapAu19'
+[02:12:26] [Server thread/INFO]: Villager Villager['Weaponsmith'/11614, uuid='4c13a2f9-3a2c-4c22-9ab9-29df346ac4a4', l='ServerLevel[world]', x=7869.40, y=62.75, z=-5156.73, cpos=[491, -323], tl=37814, v=true] died, message: 'Weaponsmith was slain by WaPapAu19'
