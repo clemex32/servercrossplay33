@@ -564,3 +564,16 @@
 [06:45:33] [User Authenticator #8/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
 [06:45:34] [Server thread/INFO]: XxClemexX joined the game
 [06:45:34] [Server thread/INFO]: XxClemexX[/127.125.129.41:50281] logged in with entity id 106375 at ([world]2508.4493267973844, -50.0, -4324.475963416544)
+[07:00:01] [Server thread/INFO]: XxClemexX issued server command: /tp 0 70 0
+[07:00:01] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 0.500000, 70.000000, 0.500000]
+[07:00:04] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
+[07:00:04] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
+[07:00:38] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
+[07:00:38] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
+[07:01:18] [Server thread/INFO]: XxClemexX issued server command: /give XxClemexX minecraft:saddle
+[07:01:18] [Server thread/INFO]: [XxClemexX: Gave 1 [Saddle] to XxClemexX]
+[07:01:24] [Server thread/INFO]: TRexGamer250 has made the advancement [Best Friends Forever]
+[07:03:10] [Server thread/INFO]: XxClemexX issued server command: /give XxClemexX minecraft:saddle
+[07:03:10] [Server thread/INFO]: [XxClemexX: Gave 1 [Saddle] to XxClemexX]
+[07:04:40] [Server thread/INFO]: XxClemexX has made the advancement [Best Friends Forever]
+[07:05:25] [Server thread/WARN]: Horse (vehicle of XxClemexX) moved wrongly! 0.374750061941716
