@@ -99,3 +99,29 @@
 [19:08:45] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 2d8688a0-3fcb-4965-be26-acf8a004460b, mapped to Bat['Bat'/463, uuid='2d8688a0-3fcb-4965-be26-acf8a004460b', l='ServerLevel[world]', x=8086.73, y=-37.71, z=-6176.05, cpos=[505, -387], tl=0, v=true], can't add Bat['Bat'/494, uuid='2d8688a0-3fcb-4965-be26-acf8a004460b', l='ServerLevel[world]', x=8085.98, y=-36.84, z=-6175.54, cpos=[505, -386], tl=0, v=false]
 [19:08:45] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 59ee72ed-8fdb-4f9d-8981-da3ff8d81b8a, mapped to Bat['Bat'/509, uuid='59ee72ed-8fdb-4f9d-8981-da3ff8d81b8a', l='ServerLevel[world]', x=8191.54, y=-19.97, z=-6112.32, cpos=[511, -383], tl=0, v=true], can't add Bat['Bat'/531, uuid='59ee72ed-8fdb-4f9d-8981-da3ff8d81b8a', l='ServerLevel[world]', x=8191.43, y=-19.95, z=-6109.58, cpos=[511, -382], tl=0, v=false]
 [19:23:06] [Server thread/INFO]: WaPapAu19 has made the advancement [A Seedy Place]
+[19:44:21] [User Authenticator #1/INFO]: UUID of player Mr_Martin14 is 3b05648d-9204-3333-a32e-8f68f50e0a67
+[19:44:22] [Server thread/INFO]: Mr_Martin14 joined the game
+[19:44:22] [Server thread/INFO]: Mr_Martin14[/127.81.228.47:44693] logged in with entity id 17161 at ([world]9473.451801304584, -31.0, -2034.3010113498744)
+[19:58:21] [Server thread/INFO]: WaPapAu19 has made the advancement [What a Deal!]
+[20:00:18] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Bedrock client timed out
+[20:01:32] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username BarterArt934436
+[20:01:32] [localSession-7-2/INFO]: [Geyser-Spigot] BarterArt934436 (logged in as: BarterArt934436) has connected to the Java server
+[20:01:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as .BarterArt934436 joined (UUID: 00000000-0000-0000-0009-01f3c5a4aa26)
+[20:01:33] [Server thread/INFO]: .BarterArt934436 joined the game
+[20:01:33] [Server thread/INFO]: .BarterArt934436[/127.0.0.1:0] logged in with entity id 27295 at ([world]9.5, 69.0, -1.5)
+[20:01:42] [Async Chat Thread - #0/INFO]: [Not Secure] <WaPapAu19> Hola
+[20:01:51] [Async Chat Thread - #0/INFO]: [Not Secure] <WaPapAu19> Privyet
+[20:01:59] [Async Chat Thread - #0/INFO]: [Not Secure] <WaPapAu19> kak dela?
+[20:02:16] [Async Chat Thread - #0/INFO]: [Not Secure] <WaPapAu19> Tvoya sestra chertova suka
+[20:02:32] [Async Chat Thread - #0/INFO]: [Not Secure] <Mr_Martin14> hola bartolomeo
+[20:04:10] [Async Chat Thread - #2/INFO]: [Not Secure] <WaPapAu19> gitler eto zhizh'
+[20:05:23] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] BarterArt934436 has disconnected from the Java server because of Bedrock client timed out
+[20:05:23] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .BarterArt934436 disconnected
+[20:05:23] [Server thread/INFO]: .BarterArt934436 lost connection: Disconnected
+[20:05:23] [Server thread/INFO]: .BarterArt934436 left the game
+[20:06:52] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username BarterArt934436
+[20:06:52] [localSession-7-3/INFO]: [Geyser-Spigot] BarterArt934436 (logged in as: BarterArt934436) has connected to the Java server
+[20:06:52] [Server thread/INFO]: [floodgate] Floodgate player logged in as .BarterArt934436 joined (UUID: 00000000-0000-0000-0009-01f3c5a4aa26)
+[20:06:52] [Server thread/INFO]: .BarterArt934436 joined the game
+[20:06:52] [Server thread/INFO]: .BarterArt934436[/127.0.0.1:0] logged in with entity id 30015 at ([world]5.768951, 69.04287999847412, 8.429233)
+[20:07:24] [Server thread/WARN]: .BarterArt934436 moved too quickly! 3.7279850000000003,0.37671999999999173,-9.3796244
