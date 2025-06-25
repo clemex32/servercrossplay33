@@ -92,3 +92,8 @@
 [00:52:05] [User Authenticator #0/INFO]: UUID of player WaPapAu19 is bc3552b6-6732-35a1-a44d-1460a804648f
 [00:52:07] [Server thread/INFO]: WaPapAu19 joined the game
 [00:52:07] [Server thread/INFO]: WaPapAu19[/127.127.60.14:34563] logged in with entity id 13 at ([world_nether]889.3000000119209, 39.0, -540.6999999880791)
+[01:25:22] [User Authenticator #1/INFO]: UUID of player WaPapAu19 is bc3552b6-6732-35a1-a44d-1460a804648f
+[01:25:22] [Server thread/INFO]: WaPapAu19 lost connection: You logged in from another location
+[01:25:22] [Server thread/INFO]: WaPapAu19 left the game
+[01:25:24] [Server thread/INFO]: WaPapAu19 joined the game
+[01:25:24] [Server thread/INFO]: WaPapAu19[/127.127.60.14:51089] logged in with entity id 7688 at ([world]7943.559547659874, -41.0, -5898.077911435851)
