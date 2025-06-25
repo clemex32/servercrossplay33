@@ -227,3 +227,7 @@
 [20:50:32] [Server thread/INFO]: XxClemexX[/127.125.129.41:59997] logged in with entity id 64130 at ([world]449.0402277904134, 70.64374997615815, -191.31492347646162)
 [20:50:40] [Server thread/INFO]: Pedrinho08082010 has made the advancement [Under Lock and Key]
 [20:50:53] [Server thread/WARN]: Horse (vehicle of TRexGamer250) moved wrongly! 0.41608162540211785
+[20:52:03] [Server thread/INFO]: XxClemexX issued server command: /msg TRexGamer250 -2500 -50 -4320
+[20:52:12] [Server thread/INFO]: XxClemexX issued server command: /msg TRexGamer250 2500 -50 -4320
+[20:52:41] [Server thread/INFO]: Villager Villager['Villager'/57723, uuid='989c4afa-14ee-4e88-a565-83cc710308d6', l='ServerLevel[world]', x=408.30, y=63.00, z=-154.30, cpos=[25, -10], tl=10065, v=true] died, message: 'Villager was slain by Zombie'
+[20:55:11] [Server thread/INFO]: WaPapAu19 was impaled on a stalagmite
