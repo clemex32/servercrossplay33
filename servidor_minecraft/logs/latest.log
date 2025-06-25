@@ -468,3 +468,21 @@
 [05:26:46] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
 [05:26:48] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
 [05:26:48] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:31:07] [Server thread/INFO]: XxClemexX was shot by Bogged
+[05:31:11] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:31:11] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:31:19] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:31:19] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:31:22] [Server thread/INFO]: TRexGamer250 was shot by Bogged
+[05:31:49] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:31:49] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:31:53] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:31:53] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:32:17] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
+[05:32:17] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
+[05:36:21] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:36:21] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:36:33] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
+[05:36:33] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
+[05:36:37] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:36:37] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
