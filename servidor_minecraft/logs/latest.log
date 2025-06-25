@@ -322,3 +322,12 @@
 [23:13:17] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
 [23:13:53] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
 [23:13:53] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[23:16:02] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[23:16:02] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[23:16:14] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[23:16:14] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[23:17:51] [Server thread/INFO]: Villager Villager['Fletcher'/95868, uuid='4ad63f9c-54f9-4c70-9f9c-9109a9fe4e4b', l='ServerLevel[world]', x=2508.70, y=-51.00, z=-4329.30, cpos=[156, -271], tl=133265, v=true] died, message: 'Fletcher was slain by Xxzombie777xX'
+[23:19:08] [Server thread/INFO]: Villager Villager['Fletcher'/95865, uuid='42820a8a-1e68-4540-8447-a19383ebb58c', l='ServerLevel[world]', x=2510.70, y=-51.00, z=-4329.30, cpos=[156, -271], tl=134789, v=true] died, message: 'Fletcher was slain by Xxzombie777xX'
+[23:22:32] [Server thread/INFO]: XxClemexX has reached the goal [Zombie Doctor]
+[23:23:03] [Server thread/INFO]: XxClemexX lost connection: Disconnected
+[23:23:03] [Server thread/INFO]: XxClemexX left the game
