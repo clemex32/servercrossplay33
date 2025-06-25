@@ -201,3 +201,29 @@
 [20:31:55] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
 [20:31:55] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
 [20:38:06] [Server thread/INFO]: WaPapAu19 has made the advancement [Minecraft: Trial(s) Edition]
+[20:44:09] [User Authenticator #4/INFO]: UUID of player TRexGamer250 is 2ed79862-4ef7-3e12-86fc-3632cfc8e671
+[20:44:16] [Server thread/INFO]: TRexGamer250 joined the game
+[20:44:16] [Server thread/INFO]: TRexGamer250[/127.33.26.149:52407] logged in with entity id 57423 at ([world]409.9101098677524, 64.0, -159.7468543121181)
+[20:44:26] [Async Chat Thread - #11/INFO]: [Not Secure] <Mr_Martin14> ya se arruino el server
+[20:44:36] [Async Chat Thread - #11/INFO]: [Not Secure] <XxClemexX> u el goat
+[20:44:48] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[20:44:48] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[20:45:03] [Server thread/INFO]: WaPapAu19 has made the advancement [Under Lock and Key]
+[20:45:12] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[20:45:12] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[20:45:21] [Server thread/INFO]: XxClemexX issued server command: /tp 0 70 0
+[20:45:21] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 0.500000, 70.000000, 0.500000]
+[20:45:28] [Server thread/INFO]: Pedrinho08082010 has made the advancement [Minecraft: Trial(s) Edition]
+[20:46:05] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[20:46:05] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[20:46:17] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[20:46:17] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[20:46:53] [Async Chat Thread - #13/INFO]: [Not Secure] <XxClemexX> entra disc
+[20:47:01] [Async Chat Thread - #13/INFO]: [Not Secure] <TRexGamer250> bn
+[20:49:06] [Server thread/INFO]: XxClemexX lost connection: Disconnected
+[20:49:06] [Server thread/INFO]: XxClemexX left the game
+[20:50:30] [User Authenticator #5/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
+[20:50:32] [Server thread/INFO]: XxClemexX joined the game
+[20:50:32] [Server thread/INFO]: XxClemexX[/127.125.129.41:59997] logged in with entity id 64130 at ([world]449.0402277904134, 70.64374997615815, -191.31492347646162)
+[20:50:40] [Server thread/INFO]: Pedrinho08082010 has made the advancement [Under Lock and Key]
+[20:50:53] [Server thread/WARN]: Horse (vehicle of TRexGamer250) moved wrongly! 0.41608162540211785
