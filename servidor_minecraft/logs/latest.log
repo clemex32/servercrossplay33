@@ -547,3 +547,13 @@
 [06:28:33] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
 [06:28:45] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
 [06:28:45] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[06:29:32] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[06:29:32] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[06:29:58] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[06:29:58] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[06:30:01] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
+[06:30:01] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
+[06:32:58] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
+[06:32:58] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
+[06:33:03] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
+[06:33:03] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
