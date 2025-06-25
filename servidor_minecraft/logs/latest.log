@@ -458,3 +458,13 @@
 [05:13:09] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
 [05:13:09] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
 [05:16:17] [Async Chat Thread - #30/INFO]: [Not Secure] <TRexGamer250> *le sopla a la llave para dar suerte
+[05:24:32] [Server thread/INFO]: TRexGamer250 fell from a high place
+[05:24:36] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
+[05:24:36] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
+[05:25:02] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:25:02] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:26:45] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:26:46] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
+[05:26:46] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
+[05:26:48] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:26:48] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
