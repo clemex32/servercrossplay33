@@ -172,3 +172,29 @@
 [20:17:47] [Async Chat Thread - #5/INFO]: [Not Secure] <Mr_Martin14> desactiva el vibrant visuals
 [20:17:54] [Async Chat Thread - #5/INFO]: [Not Secure] <WaPapAu19> .BarterArt934436
 [20:19:29] [Async Chat Thread - #7/INFO]: [Not Secure] <.BarterArt934436> Ahi me anda mucho mejor
+[20:19:48] [Async Chat Thread - #7/INFO]: [Not Secure] <WaPapAu19> ven a -9005 70 6055
+[20:20:18] [Async Chat Thread - #7/INFO]: [Not Secure] <.BarterArt934436> Esta lejisimo
+[20:20:30] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .BarterArt934436 disconnected
+[20:20:30] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] BarterArt934436 has disconnected from the Java server because of Bedrock client timed out
+[20:20:30] [Server thread/INFO]: .BarterArt934436 lost connection: Disconnected
+[20:20:30] [Server thread/INFO]: .BarterArt934436 left the game
+[20:20:32] [Async Chat Thread - #7/INFO]: [Not Secure] <Mr_Martin14> te daremos 1 diamente y medio
+[20:21:03] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username BarterArt934436
+[20:21:03] [localSession-7-4/INFO]: [Geyser-Spigot] BarterArt934436 (logged in as: BarterArt934436) has connected to the Java server
+[20:21:04] [User Authenticator #3/INFO]: UUID of player BarterArt934436 is 8cd58d4f-2616-3058-b4a5-05f30f8d4a49
+[20:21:04] [Server thread/INFO]: BarterArt934436 joined the game
+[20:21:04] [Server thread/INFO]: BarterArt934436[/127.0.0.1:0] logged in with entity id 38454 at ([world]-6.008361, 64.15951205089503, 8.688346)
+[20:21:28] [User Authenticator #3/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
+[20:21:29] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] BarterArt934436 has disconnected from the Java server because of Bedrock client timed out
+[20:21:29] [Server thread/INFO]: BarterArt934436 lost connection: Disconnected
+[20:21:30] [Server thread/INFO]: BarterArt934436 left the game
+[20:21:31] [Server thread/INFO]: XxClemexX joined the game
+[20:21:31] [Server thread/INFO]: XxClemexX[/127.125.129.41:33053] logged in with entity id 38908 at ([world]2521.756292179324, -50.0, -4322.70308460744)
+[20:22:21] [Async Chat Thread - #9/INFO]: [Not Secure] <XxClemexX> buenas
+[20:22:26] [Async Chat Thread - #9/INFO]: [Not Secure] <Mr_Martin14> malas
+[20:22:26] [Async Chat Thread - #9/INFO]: [Not Secure] <WaPapAu19> hola linda
+[20:22:31] [Async Chat Thread - #9/INFO]: [Not Secure] <Pedrinho08082010> malas
+[20:22:31] [Async Chat Thread - #9/INFO]: [Not Secure] <WaPapAu19> lindo
+[20:22:47] [Async Chat Thread - #9/INFO]: [Not Secure] <Pedrinho08082010> MALAS
+[20:23:06] [Server thread/INFO]: XxClemexX issued server command: /tp 0 70 0
+[20:23:06] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 0.500000, 70.000000, 0.500000]
