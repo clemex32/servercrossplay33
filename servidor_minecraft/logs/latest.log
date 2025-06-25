@@ -123,3 +123,10 @@
 [02:21:49] [Server thread/INFO]: Villager Villager['Villager'/11648, uuid='c59b4c6f-26e7-44bd-ba4c-126e9c314b8a', l='ServerLevel[world]', x=7891.55, y=52.05, z=-5181.70, cpos=[493, -324], tl=49018, v=true] died, message: 'Villager drowned'
 [02:23:03] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
 [02:23:03] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[02:24:31] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
+[02:24:31] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
+[02:24:33] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[02:24:33] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[02:25:10] [Server thread/INFO]: Villager Villager['Villager'/11707, uuid='c6a96f14-fc72-4a5f-847d-5b6e25be9747', l='ServerLevel[world]', x=7891.56, y=59.05, z=-5181.70, cpos=[493, -324], tl=52966, v=true] died, message: 'Villager drowned'
+[02:25:13] [Server thread/INFO]: WaPapAu19 drowned
+[02:25:21] [Async Chat Thread - #6/INFO]: [Not Secure] <XxClemexX> F
