@@ -361,3 +361,29 @@
 [04:05:40] [Server thread/INFO]: XxClemexX was slain by Zombie
 [04:05:51] [Server thread/INFO]: XxClemexX issued server command: /difficulty peaceful
 [04:05:51] [Server thread/INFO]: [XxClemexX: The difficulty has been set to Peaceful]
+[04:08:43] [Server thread/INFO]: XxClemexX has reached the goal [Revaulting]
+[04:08:55] [Server thread/INFO]: TRexGamer250 has reached the goal [Revaulting]
+[04:10:07] [Server thread/INFO]: TRexGamer250 was impaled on a stalagmite
+[04:10:13] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
+[04:10:13] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
+[04:11:04] [Server thread/INFO]: XxClemexX issued server command: /difficulty normal
+[04:11:04] [Server thread/INFO]: [XxClemexX: The difficulty has been set to Normal]
+[04:14:47] [Server thread/INFO]: TRexGamer250 was slain by Zombie
+[04:14:50] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
+[04:14:50] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
+[04:16:32] [Server thread/INFO]: XxClemexX was slain by Zombie
+[04:17:17] [Server thread/INFO]: TRexGamer250 lost connection: Timed out
+[04:17:17] [Server thread/INFO]: TRexGamer250 left the game
+[04:17:22] [Server thread/INFO]: XxClemexX issued server command: /spark tps
+[04:17:42] [Server thread/INFO]: XxClemexX was slain by Zombie
+[04:17:51] [User Authenticator #7/INFO]: UUID of player TRexGamer250 is 2ed79862-4ef7-3e12-86fc-3632cfc8e671
+[04:17:52] [Server thread/INFO]: TRexGamer250 joined the game
+[04:17:52] [Server thread/INFO]: TRexGamer250[/127.33.26.149:54877] logged in with entity id 85721 at ([world]2212.9292567390607, -27.0, -4204.505343094276)
+[04:18:14] [Server thread/INFO]: XxClemexX was shot by Skeleton
+[04:18:57] [Server thread/INFO]: TRexGamer250 was slain by Zombie
+[04:19:00] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
+[04:19:00] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
+[04:21:46] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[04:21:46] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[04:22:15] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[04:22:15] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
