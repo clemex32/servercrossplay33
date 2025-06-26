@@ -2129,3 +2129,53 @@
 [08:45:59] [Server thread/INFO]: Villager Villager['Villager'/194396, uuid='be9381eb-3752-44ba-9f68-b4bd714f57ec', l='ServerLevel[world]', x=-1535.30, y=51.00, z=-1055.19, cpos=[-96, -66], tl=24319, v=true] died, message: 'Villager was slain by caseellii'
 [08:46:06] [Async Chat Thread - #106/INFO]: [Not Secure] <Dream> Where are in a manhunt!
 [08:47:06] [Async Chat Thread - #106/INFO]: [Not Secure] <Dream> Leave me alone
+[08:48:00] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[08:48:00] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[08:48:06] [Async Chat Thread - #106/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[08:48:17] [Server thread/INFO]: XxClemexX issued server command: /time set day
+[08:48:17] [Server thread/INFO]: [XxClemexX: Set the time to 1000]
+[08:48:25] [Server thread/INFO]: XxClemexX issued server command: /weather clear
+[08:48:25] [Server thread/INFO]: [XxClemexX: Set the weather to clear]
+[08:49:06] [Async Chat Thread - #110/INFO]: [Not Secure] <Dream> Where are in a manhunt!
+[08:50:06] [Async Chat Thread - #110/INFO]: [Not Secure] <Dream> Leave me alone
+[08:50:17] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[08:50:17] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[08:50:26] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:26] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:27] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:27] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:27] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:27] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:28] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:28] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:28] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:28] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:29] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:29] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:29] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:29] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:29] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:29] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:30] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:30] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:30] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:30] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:30] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:30] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:31] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:31] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:31] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:31] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:32] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:32] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:32] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:villager
+[08:50:32] [Server thread/INFO]: [XxClemexX: Summoned new Villager]
+[08:50:40] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[08:50:40] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[08:51:06] [Async Chat Thread - #110/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[08:52:06] [Async Chat Thread - #110/INFO]: [Not Secure] <Dream> Where are in a manhunt!
+[08:53:06] [Async Chat Thread - #110/INFO]: [Not Secure] <Dream> Leave me alone
+[08:54:06] [Async Chat Thread - #110/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[08:55:06] [Async Chat Thread - #110/INFO]: [Not Secure] <Dream> Where are in a manhunt!
+[08:56:06] [Async Chat Thread - #110/INFO]: [Not Secure] <Dream> Leave me alone
+[08:57:06] [Async Chat Thread - #110/INFO]: [Not Secure] <Dream> Subscibe To Dream!
