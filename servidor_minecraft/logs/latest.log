@@ -205,3 +205,198 @@
 [02:54:36] [Server thread/INFO]: XxClemexX lost connection: Disconnected
 [02:54:36] [Server thread/INFO]: XxClemexX left the game
 [02:54:36] [Async Chat Thread - #18/INFO]: [Not Secure] <Mr_Martin14> no
+[02:55:30] [Async Chat Thread - #18/INFO]: [Not Secure] <VegettaGaymer> Frank?!
+[02:56:00] [Async Chat Thread - #18/INFO]: [Not Secure] <TRexGamer250> se refiere a staks????
+[02:56:04] [User Authenticator #9/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
+[02:56:07] [Server thread/INFO]: XxClemexX joined the game
+[02:56:07] [Server thread/INFO]: XxClemexX[/127.9.132.109:46881] logged in with entity id 32568 at ([world]2518.8687564133525, -50.0, -4322.616017030948)
+[02:56:26] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[02:56:26] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[02:56:30] [Async Chat Thread - #18/INFO]: [Not Secure] <VegettaGaymer> Noo mi casa tio
+[02:56:38] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
+[02:56:38] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
+[02:56:41] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[02:56:41] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[02:57:28] [Server thread/INFO]: VegettaGaymer was slain by TRexGamer250
+[02:57:30] [Async Chat Thread - #20/INFO]: [Not Secure] <VegettaGaymer> Subscribete a Vegetta777!
+[02:57:37] [User Authenticator #10/INFO]: UUID of player Pedrinho08082010 is 4417e01d-690d-3020-b15e-49d9cd099c70
+[02:57:37] [Server thread/INFO]: VegettaGaymer was slain by XxClemexX
+[02:57:38] [Server thread/INFO]: Pedrinho08082010 joined the game
+[02:57:38] [Server thread/INFO]: Pedrinho08082010[/127.182.138.191:56457] logged in with entity id 33178 at ([world]7929.520632303874, -40.9375, -5892.283824402726)
+[02:57:52] [Server thread/INFO]: VegettaGaymer was slain by TRexGamer250
+[02:58:05] [Server thread/INFO]: VegettaGaymer was slain by TRexGamer250
+[02:58:18] [Server thread/INFO]: VegettaGaymer was slain by XxClemexX
+[02:58:28] [Server thread/INFO]: VegettaGaymer has made the advancement [Cover Me with Diamonds]
+[02:58:30] [Async Chat Thread - #20/INFO]: [Not Secure] <VegettaGaymer> Frank?!
+[02:58:34] [Server thread/INFO]: VegettaGaymer was slain by XxClemexX
+[02:58:55] [Server thread/INFO]: VegettaGaymer has made the advancement [Stone Age]
+[02:58:57] [Server thread/INFO]: VegettaGaymer was slain by XxClemexX
+[02:59:13] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
+[02:59:13] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
+[02:59:21] [Async Chat Thread - #20/INFO]: [Not Secure] <TRexGamer250> vegetta se hace un speedrun!!
+[02:59:25] [Async Chat Thread - #20/INFO]: [Not Secure] <TRexGamer250> de locos
+[02:59:30] [Async Chat Thread - #21/INFO]: [Not Secure] <VegettaGaymer> Noo mi casa tio
+[02:59:39] [Server thread/INFO]: XxClemexX lost connection: Disconnected
+[02:59:39] [Server thread/INFO]: XxClemexX left the game
+[03:00:04] [Server thread/INFO]: VegettaGaymer lost connection: Disconnected
+[03:00:04] [Server thread/INFO]: VegettaGaymer left the game
+[03:00:19] [User Authenticator #11/INFO]: UUID of player VegettaGaymer is d12bb281-ca36-3a8e-a28b-167b4f7b8d93
+[03:00:19] [Server thread/INFO]: VegettaGaymer joined the game
+[03:00:19] [Server thread/INFO]: VegettaGaymer[/127.64.245.36:34767] logged in with entity id 34670 at ([world]7.5, 69.56904711312373, -8.5)
+[03:00:35] [Server thread/INFO]: VegettaGaymer was slain by TRexGamer250
+[03:00:41] [Server thread/INFO]: VegettaGaymer was slain by TRexGamer250
+[03:00:44] [Server thread/INFO]: VegettaGaymer was slain by TRexGamer250
+[03:00:49] [Server thread/INFO]: VegettaGaymer was slain by TRexGamer250
+[03:00:53] [Server thread/INFO]: VegettaGaymer was slain by TRexGamer250
+[03:01:02] [Server thread/INFO]: VegettaGaymer lost connection: Disconnected
+[03:01:02] [Server thread/INFO]: VegettaGaymer left the game
+[03:01:14] [User Authenticator #11/INFO]: UUID of player VegettaGaymer is d12bb281-ca36-3a8e-a28b-167b4f7b8d93
+[03:01:14] [Server thread/INFO]: VegettaGaymer joined the game
+[03:01:14] [Server thread/INFO]: VegettaGaymer[/127.64.245.36:48609] logged in with entity id 35020 at ([world]-8.5, 63.7531999805212, -3.5)
+[03:01:21] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username TRexGamer360520
+[03:01:21] [localSession-7-1/INFO]: [Geyser-Spigot] TRexGamer360520 (logged in as: TRexGamer360520) has connected to the Java server
+[03:01:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 joined (UUID: 00000000-0000-0000-0009-01fb13c67cda)
+[03:01:22] [Server thread/INFO]: .TRexGamer360520 joined the game
+[03:01:22] [Server thread/INFO]: .TRexGamer360520[/127.0.0.1:0] logged in with entity id 35072 at ([world]-1.5, 65.0, 1.5)
+[03:01:27] [User Authenticator #11/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
+[03:01:29] [Server thread/INFO]: XxClemexX joined the game
+[03:01:29] [Server thread/INFO]: XxClemexX[/127.9.132.109:40489] logged in with entity id 35099 at ([world]2502.5843091230763, -50.0, -4325.16922552051)
+[03:01:48] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:01:48] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:01:57] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:01:57] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:02:08] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 disconnected
+[03:02:08] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] TRexGamer360520 has disconnected from the Java server because of Bedrock client timed out
+[03:02:08] [Server thread/INFO]: .TRexGamer360520 lost connection: Disconnected
+[03:02:08] [Server thread/INFO]: .TRexGamer360520 left the game
+[03:02:14] [Async Chat Thread - #22/INFO]: [Not Secure] <VegettaGaymer> Noo mi casa tio
+[03:02:14] [Server thread/INFO]: VegettaGaymer has made the advancement [Hidden in the Depths]
+[03:02:15] [Server thread/INFO]: VegettaGaymer has made the advancement [Into Fire]
+[03:02:18] [Server thread/INFO]: VegettaGaymer was slain by XxClemexX
+[03:02:18] [Async Chat Thread - #22/INFO]: [Not Secure] <TRexGamer250> whaaaat???
+[03:02:37] [Server thread/INFO]: VegettaGaymer was slain by XxClemexX
+[03:02:41] [Server thread/INFO]: VegettaGaymer was slain by XxClemexX
+[03:03:09] [Server thread/INFO]: VegettaGaymer was slain by XxClemexX
+[03:03:13] [Server thread/INFO]: VegettaGaymer was slain by XxClemexX
+[03:03:14] [Async Chat Thread - #22/INFO]: [Not Secure] <VegettaGaymer> Subscribete a Vegetta777!
+[03:03:20] [Server thread/INFO]: VegettaGaymer was slain by XxClemexX
+[03:03:45] [Server thread/INFO]: XxClemexX issued server command: /tp VegettaGaymer XxClemexX
+[03:03:45] [Server thread/INFO]: [XxClemexX: Teleported VegettaGaymer to XxClemexX]
+[03:04:14] [Async Chat Thread - #22/INFO]: [Not Secure] <VegettaGaymer> Frank?!
+[03:05:00] [Server thread/INFO]: VegettaGaymer was slain by TRexGamer250
+[03:05:14] [Async Chat Thread - #24/INFO]: [Not Secure] <VegettaGaymer> Noo mi casa tio
+[03:05:37] [Server thread/INFO]: XxClemexX issued server command: /tp VegettaGaymer XxClemexX
+[03:05:37] [Server thread/INFO]: [XxClemexX: Teleported VegettaGaymer to XxClemexX]
+[03:05:40] [Server thread/INFO]: XxClemexX issued server command: /tp VegettaGaymer XxClemexX
+[03:05:40] [Server thread/INFO]: [XxClemexX: Teleported VegettaGaymer to XxClemexX]
+[03:06:02] [Server thread/INFO]: XxClemexX issued server command: /tp VegettaGaymer XxClemexX
+[03:06:02] [Server thread/INFO]: [XxClemexX: Teleported VegettaGaymer to XxClemexX]
+[03:06:04] [Server thread/INFO]: XxClemexX issued server command: /tp VegettaGaymer XxClemexX
+[03:06:04] [Server thread/INFO]: [XxClemexX: Teleported VegettaGaymer to XxClemexX]
+[03:06:10] [Server thread/INFO]: XxClemexX issued server command: /tp VegettaGaymer XxClemexX
+[03:06:10] [Server thread/INFO]: [XxClemexX: Teleported VegettaGaymer to XxClemexX]
+[03:06:13] [Server thread/INFO]: XxClemexX issued server command: /tp VegettaGaymer XxClemexX
+[03:06:13] [Server thread/INFO]: [XxClemexX: Teleported VegettaGaymer to XxClemexX]
+[03:06:14] [Async Chat Thread - #24/INFO]: [Not Secure] <VegettaGaymer> Subscribete a Vegetta777!
+[03:06:16] [Server thread/INFO]: XxClemexX issued server command: /tp VegettaGaymer XxClemexX
+[03:06:16] [Server thread/INFO]: [XxClemexX: Teleported VegettaGaymer to XxClemexX]
+[03:06:23] [Server thread/INFO]: XxClemexX issued server command: /tp VegettaGaymer XxClemexX
+[03:06:23] [Server thread/INFO]: [XxClemexX: Teleported VegettaGaymer to XxClemexX]
+[03:06:26] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username garyhzhshs
+[03:06:26] [localSession-7-2/INFO]: [Geyser-Spigot] garyhzhshs (logged in as: garyhzhshs) has connected to the Java server
+[03:06:26] [Server thread/INFO]: [floodgate] Floodgate player logged in as .garyhzhshs joined (UUID: 00000000-0000-0000-0009-01f23727c725)
+[03:06:26] [Server thread/INFO]: .garyhzhshs joined the game
+[03:06:26] [Server thread/INFO]: .garyhzhshs[/127.0.0.1:0] logged in with entity id 38810 at ([world]0.5, 67.0, -0.5)
+[03:06:44] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:06:44] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:07:01] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username TRexGamer360520
+[03:07:01] [localSession-7-3/INFO]: [Geyser-Spigot] TRexGamer360520 (logged in as: TRexGamer360520) has connected to the Java server
+[03:07:01] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 joined (UUID: 00000000-0000-0000-0009-01fb13c67cda)
+[03:07:01] [Server thread/INFO]: .TRexGamer360520 joined the game
+[03:07:01] [Server thread/INFO]: .TRexGamer360520[/127.0.0.1:0] logged in with entity id 39450 at ([world]-8.451052, 63.0, -1.815132)
+[03:07:06] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .garyhzhshs disconnected
+[03:07:06] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] garyhzhshs has disconnected from the Java server because of Bedrock client timed out
+[03:07:06] [Server thread/INFO]: .garyhzhshs lost connection: Disconnected
+[03:07:06] [Server thread/INFO]: .garyhzhshs left the game
+[03:07:08] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:07:08] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:07:14] [Async Chat Thread - #24/INFO]: [Not Secure] <VegettaGaymer> Frank?!
+[03:07:20] [Server thread/INFO]: .TRexGamer360520 was slain by Zombie
+[03:07:21] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 disconnected
+[03:07:21] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] TRexGamer360520 has disconnected from the Java server because of Bedrock client timed out
+[03:07:21] [Server thread/INFO]: .TRexGamer360520 lost connection: Disconnected
+[03:07:21] [Server thread/INFO]: .TRexGamer360520 left the game
+[03:07:28] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username TRexGamer360520
+[03:07:28] [localSession-7-4/INFO]: [Geyser-Spigot] TRexGamer360520 (logged in as: TRexGamer360520) has connected to the Java server
+[03:07:29] [User Authenticator #12/INFO]: UUID of player TRexGamer360520 is ac93d753-24a5-36fb-9169-b06a7596b602
+[03:07:29] [Server thread/INFO]: TRexGamer360520 joined the game
+[03:07:29] [Server thread/INFO]: TRexGamer360520[/127.0.0.1:0] logged in with entity id 40129 at ([world]0.5, 67.0, 9.5)
+[03:07:41] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username garyhzhshs
+[03:07:41] [localSession-7-1/INFO]: [Geyser-Spigot] garyhzhshs (logged in as: garyhzhshs) has connected to the Java server
+[03:07:41] [Server thread/INFO]: [floodgate] Floodgate player logged in as .garyhzhshs joined (UUID: 00000000-0000-0000-0009-01f23727c725)
+[03:07:41] [Server thread/INFO]: .garyhzhshs joined the game
+[03:07:41] [Server thread/INFO]: .garyhzhshs[/127.0.0.1:0] logged in with entity id 40312 at ([world]-6.536276101445175, 65.0, 17.57215088676246)
+[03:07:46] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:07:46] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:07:49] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:07:49] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:07:56] [Server thread/INFO]: XxClemexX issued server command: /tp 0 100 0
+[03:07:56] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 0.500000, 100.000000, 0.500000]
+[03:08:02] [Server thread/INFO]: .garyhzhshs was slain by Spider
+[03:08:10] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] TRexGamer360520 has disconnected from the Java server because of Bedrock client timed out
+[03:08:10] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .garyhzhshs disconnected
+[03:08:10] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] garyhzhshs has disconnected from the Java server because of Bedrock client timed out
+[03:08:10] [Server thread/INFO]: TRexGamer360520 lost connection: Disconnected
+[03:08:10] [Server thread/INFO]: TRexGamer360520 left the game
+[03:08:10] [Server thread/INFO]: .garyhzhshs lost connection: Disconnected
+[03:08:10] [Server thread/INFO]: .garyhzhshs left the game
+[03:08:14] [Async Chat Thread - #24/INFO]: [Not Secure] <VegettaGaymer> Noo mi casa tio
+[03:09:14] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username TRexGamer360520
+[03:09:14] [localSession-7-2/INFO]: [Geyser-Spigot] TRexGamer360520 (logged in as: TRexGamer360520) has connected to the Java server
+[03:09:14] [Async Chat Thread - #26/INFO]: [Not Secure] <VegettaGaymer> Subscribete a Vegetta777!
+[03:09:14] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 joined (UUID: 00000000-0000-0000-0009-01fb13c67cda)
+[03:09:14] [Server thread/INFO]: .TRexGamer360520 joined the game
+[03:09:14] [Server thread/INFO]: .TRexGamer360520[/127.0.0.1:0] logged in with entity id 41477 at ([world]-8.451052, 63.0, -1.815132)
+[03:09:33] [Server thread/INFO]: XxClemexX issued server command: /tp 0 100 0
+[03:09:33] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 0.500000, 100.000000, 0.500000]
+[03:10:05] [Server thread/INFO]: .TRexGamer360520 was blown up by Creeper
+[03:10:08] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 disconnected
+[03:10:08] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] TRexGamer360520 has disconnected from the Java server because of Bedrock client timed out
+[03:10:08] [Server thread/INFO]: .TRexGamer360520 lost connection: Disconnected
+[03:10:08] [Server thread/INFO]: .TRexGamer360520 left the game
+[03:10:14] [Async Chat Thread - #26/INFO]: [Not Secure] <VegettaGaymer> Frank?!
+[03:10:30] [Server thread/INFO]: XxClemexX issued server command: /time set night
+[03:10:30] [Server thread/INFO]: [XxClemexX: Set the time to 13000]
+[03:10:40] [Server thread/INFO]: XxClemexX issued server command: /tp VegettaGaymer XxClemexX
+[03:10:40] [Server thread/INFO]: [XxClemexX: Teleported VegettaGaymer to XxClemexX]
+[03:11:00] [Server thread/INFO]: Mr_Martin14 was slain by Drowned
+[03:11:01] [Server thread/INFO]: Attempt to teleport removed player Mr_Martin14 restricted
+[03:11:11] [Async Chat Thread - #26/INFO]: [Not Secure] <TRexGamer250> jajajaja
+[03:11:14] [Async Chat Thread - #26/INFO]: [Not Secure] <VegettaGaymer> Noo mi casa tio
+[03:11:29] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username TRexGamer360520
+[03:11:29] [localSession-7-3/INFO]: [Geyser-Spigot] TRexGamer360520 (logged in as: TRexGamer360520) has connected to the Java server
+[03:11:29] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 joined (UUID: 00000000-0000-0000-0009-01fb13c67cda)
+[03:11:29] [Server thread/INFO]: .TRexGamer360520 joined the game
+[03:11:29] [Server thread/INFO]: .TRexGamer360520[/127.0.0.1:0] logged in with entity id 43426 at ([world]97.98743, 76.12128, 40.668392)
+[03:11:56] [Server thread/INFO]: XxClemexX issued server command: /tp .TRexGamer360520 XxClemexX
+[03:11:56] [Server thread/INFO]: [XxClemexX: Teleported .TRexGamer360520 to XxClemexX]
+[03:12:12] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] TRexGamer360520 has disconnected from the Java server because of Bedrock client timed out
+[03:12:12] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 disconnected
+[03:12:12] [Server thread/INFO]: .TRexGamer360520 lost connection: Disconnected
+[03:12:12] [Server thread/INFO]: .TRexGamer360520 left the game
+[03:12:14] [Async Chat Thread - #26/INFO]: [Not Secure] <VegettaGaymer> Subscribete a Vegetta777!
+[03:12:31] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username TRexGamer360520
+[03:12:31] [localSession-7-4/INFO]: [Geyser-Spigot] TRexGamer360520 (logged in as: TRexGamer360520) has connected to the Java server
+[03:12:31] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 joined (UUID: 00000000-0000-0000-0009-01fb13c67cda)
+[03:12:31] [Server thread/INFO]: .TRexGamer360520 joined the game
+[03:12:31] [Server thread/INFO]: .TRexGamer360520[/127.0.0.1:0] logged in with entity id 44187 at ([world]212.55338, 64.0, 104.34021)
+[03:12:43] [Server thread/INFO]: XxClemexX issued server command: /tp VegettaGaymer XxClemexX
+[03:12:43] [Server thread/INFO]: [XxClemexX: Teleported VegettaGaymer to XxClemexX]
+[03:13:11] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] TRexGamer360520 has disconnected from the Java server because of Bedrock client timed out
+[03:13:11] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 disconnected
+[03:13:11] [Server thread/INFO]: .TRexGamer360520 lost connection: Disconnected
+[03:13:11] [Server thread/INFO]: .TRexGamer360520 left the game
+[03:13:14] [Async Chat Thread - #26/INFO]: [Not Secure] <VegettaGaymer> Frank?!
+[03:14:04] [Server thread/INFO]: VegettaGaymer was slain by TRexGamer250
+[03:14:14] [Async Chat Thread - #26/INFO]: [Not Secure] <VegettaGaymer> Noo mi casa tio
+[03:15:14] [Async Chat Thread - #26/INFO]: [Not Secure] <VegettaGaymer> Subscribete a Vegetta777!
