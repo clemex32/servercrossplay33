@@ -1299,3 +1299,101 @@
 [05:41:46] [Async Chat Thread - #55/INFO]: [Not Secure] <ElRichMC> aqui el rich en minecraft!
 [05:41:48] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
 [05:41:48] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:42:18] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:42:18] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:42:46] [Async Chat Thread - #55/INFO]: [Not Secure] <ElRichMC> Eyeyey
+[05:42:49] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:42:49] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:43:04] [Server thread/INFO]: XxClemexX issued server command: /tp caseellii XxClemexX
+[05:43:04] [Server thread/INFO]: [XxClemexX: Teleported caseellii to XxClemexX]
+[05:43:23] [Server thread/INFO]: XxClemexX issued server command: /tp caseellii XxClemexX
+[05:43:23] [Server thread/INFO]: [XxClemexX: Teleported caseellii to XxClemexX]
+[05:43:27] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:43:27] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:43:46] [Async Chat Thread - #55/INFO]: [Not Secure] <ElRichMC> Subscribete a ElRichMc!
+[05:44:19] [Server thread/INFO]: ElRichMC was obliterated by a sonically-charged shriek
+[05:44:30] [Server thread/INFO]: ElRichMC was slain by Zombie
+[05:44:32] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:44:32] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:44:46] [Async Chat Thread - #57/INFO]: [Not Secure] <ElRichMC> aqui el rich en minecraft!
+[05:45:46] [Async Chat Thread - #57/INFO]: [Not Secure] <ElRichMC> Eyeyey
+[05:46:46] [Async Chat Thread - #57/INFO]: [Not Secure] <ElRichMC> Subscribete a ElRichMc!
+[05:47:24] [Server thread/INFO]: XxClemexX issued server command: /tp caseellii XxClemexX
+[05:47:24] [Server thread/INFO]: [XxClemexX: Teleported caseellii to XxClemexX]
+[05:47:46] [Async Chat Thread - #57/INFO]: [Not Secure] <ElRichMC> aqui el rich en minecraft!
+[05:47:50] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:47:50] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:48:19] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:48:19] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:48:31] [Server thread/INFO]: XxClemexX issued server command: /locate structure minecraft:ancient_city
+[05:48:31] [Server thread/INFO]: Locating element minecraft:ancient_city took 11 ms
+[05:48:44] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
+[05:48:44] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
+[05:48:46] [Server thread/INFO]: XxClemexX issued server command: /locate structure minecraft:ancient_city
+[05:48:46] [Async Chat Thread - #57/INFO]: [Not Secure] <ElRichMC> Eyeyey
+[05:48:47] [Server thread/INFO]: Locating element minecraft:ancient_city took 343 ms
+[05:48:54] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[05:48:54] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[05:48:57] [Server thread/INFO]: XxClemexX issued server command: /tp @s 4832 ~ -1824
+[05:48:57] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 4832.500000, -50.000000, -1823.500000]
+[05:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
+[05:49:23] [Server thread/INFO]: XxClemexX issued server command: /tp caseellii XxClemexX
+[05:49:23] [Server thread/INFO]: [XxClemexX: Teleported caseellii to XxClemexX]
+[05:49:28] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:49:28] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:49:35] [Server thread/INFO]: XxClemexX issued server command: /tp TRexGamer250 XxClemexX
+[05:49:35] [Server thread/INFO]: [XxClemexX: Teleported TRexGamer250 to XxClemexX]
+[05:49:36] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:49:36] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:49:44] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:49:44] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:49:46] [Async Chat Thread - #57/INFO]: [Not Secure] <ElRichMC> Subscribete a ElRichMc!
+[05:50:27] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:50:27] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:50:46] [Async Chat Thread - #60/INFO]: [Not Secure] <ElRichMC> aqui el rich en minecraft!
+[05:51:10] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:51:10] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:51:46] [Async Chat Thread - #60/INFO]: [Not Secure] <ElRichMC> Eyeyey
+[05:51:48] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:51:48] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:51:59] [Server thread/INFO]: ElRichMC was slain by TRexGamer250
+[05:52:00] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:52:00] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:52:46] [Async Chat Thread - #60/INFO]: [Not Secure] <ElRichMC> Subscribete a ElRichMc!
+[05:52:52] [Server thread/INFO]: XxClemexX issued server command: /tp caseellii XxClemexX
+[05:52:52] [Server thread/INFO]: [XxClemexX: Teleported caseellii to XxClemexX]
+[05:53:18] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:53:19] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:53:33] [Server thread/INFO]: XxClemexX issued server command: /give XxClemexX minecraft:shears
+[05:53:33] [Server thread/INFO]: [XxClemexX: Gave 1 [Shears] to XxClemexX]
+[05:53:46] [Async Chat Thread - #62/INFO]: [Not Secure] <ElRichMC> aqui el rich en minecraft!
+[05:53:49] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:53:49] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:54:46] [Async Chat Thread - #62/INFO]: [Not Secure] <ElRichMC> Eyeyey
+[05:55:46] [Async Chat Thread - #62/INFO]: [Not Secure] <ElRichMC> Subscribete a ElRichMc!
+[05:56:34] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:56:34] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:56:46] [Async Chat Thread - #62/INFO]: [Not Secure] <ElRichMC> aqui el rich en minecraft!
+[05:57:25] [Server thread/INFO]: ElRichMC was obliterated by a sonically-charged shriek
+[05:57:26] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:57:26] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:57:35] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:57:35] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:57:46] [Async Chat Thread - #62/INFO]: [Not Secure] <ElRichMC> Eyeyey
+[05:57:53] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:57:53] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:58:10] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:58:10] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:58:46] [Async Chat Thread - #62/INFO]: [Not Secure] <ElRichMC> Subscribete a ElRichMc!
+[05:59:02] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:59:02] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:59:20] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:59:20] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[05:59:46] [Async Chat Thread - #62/INFO]: [Not Secure] <ElRichMC> aqui el rich en minecraft!
+[05:59:57] [Server thread/INFO]: XxClemexX issued server command: /tp ElRichMC TRexGamer250
+[05:59:57] [Server thread/INFO]: [XxClemexX: Teleported ElRichMC to TRexGamer250]
+[06:00:46] [Async Chat Thread - #62/INFO]: [Not Secure] <ElRichMC> Eyeyey
+[06:00:54] [Server thread/INFO]: caseellii was obliterated by a sonically-charged shriek
+[06:01:02] [Server thread/INFO]: XxClemexX issued server command: /tp caseellii XxClemexX
+[06:01:02] [Server thread/INFO]: [XxClemexX: Teleported caseellii to XxClemexX]
+[06:01:46] [Async Chat Thread - #62/INFO]: [Not Secure] <ElRichMC> Subscribete a ElRichMc!
