@@ -2210,3 +2210,80 @@
 [09:16:06] [Async Chat Thread - #110/INFO]: [Not Secure] <Dream> Where are in a manhunt!
 [09:17:06] [Async Chat Thread - #110/INFO]: [Not Secure] <Dream> Leave me alone
 [09:18:06] [Async Chat Thread - #110/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[09:19:13] [Server thread/INFO]: Dream lost connection: Timed out
+[09:19:13] [Server thread/INFO]: Dream left the game
+[09:19:37] [User Authenticator #38/INFO]: UUID of player Dream is e6135a83-d680-39d6-b4be-65a3d8bb97ad
+[09:19:38] [Server thread/INFO]: Dream joined the game
+[09:19:38] [Server thread/INFO]: Dream[/127.54.158.182:40093] logged in with entity id 201307 at ([world]-1540.7, 51.0, -1061.7)
+[09:19:40] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[09:19:40] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[09:19:58] [Server thread/INFO]: Villager Villager['Librarian'/187484, uuid='dec319dd-52af-4a50-b2a5-9c0176831ceb', l='ServerLevel[world]', x=-1533.67, y=50.00, z=-1044.33, cpos=[-96, -66], tl=104779, v=true] died, message: 'Librarian was slain by Panfiloberto'
+[09:20:04] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[09:20:04] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[09:20:18] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[09:20:18] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[09:20:27] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[09:20:27] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[09:20:38] [Async Chat Thread - #115/INFO]: [Not Secure] <Dream> Leave me alone
+[09:20:39] [Server thread/INFO]: Villager Villager['Villager'/196234, uuid='ed54da43-85e6-4c24-ad81-4667fe8580d8', l='ServerLevel[world]', x=-1535.70, y=67.13, z=-1019.49, cpos=[-96, -64], tl=36252, v=true] died, message: 'Villager was slain by Zombie'
+[09:20:46] [Server thread/INFO]: Villager Villager['Villager'/177230, uuid='d5806765-e668-4300-9f35-3067717dde68', l='ServerLevel[world]', x=-1535.60, y=68.94, z=-1018.70, cpos=[-96, -64], tl=156061, v=true] died, message: 'Villager was slain by Zombie'
+[09:20:54] [Server thread/INFO]: Villager Villager['Farmer'/177217, uuid='76c85a7b-36ec-4ee4-81c3-94967f2446b2', l='ServerLevel[world]', x=-1535.49, y=68.94, z=-1018.70, cpos=[-96, -64], tl=156229, v=true] died, message: 'Farmer was slain by Zombie Villager'
+[09:21:02] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[09:21:02] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[09:21:07] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[09:21:07] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[09:21:20] [Server thread/INFO]: XxClemexX issued server command: /give caseellii minecraft:apple 64
+[09:21:20] [Server thread/INFO]: [XxClemexX: Gave 64 [Apple] to caseellii]
+[09:21:38] [Async Chat Thread - #115/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[09:21:41] [Server thread/INFO]: XxClemexX issued server command: /give caseellii minecraft:apple 64
+[09:21:41] [Server thread/INFO]: [XxClemexX: Gave 64 [Apple] to caseellii]
+[09:21:58] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[09:21:58] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[09:22:01] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[09:22:01] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[09:22:09] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[09:22:09] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[09:22:13] [Server thread/INFO]: Dream lost connection: Timed out
+[09:22:13] [Server thread/INFO]: Dream left the game
+[09:22:41] [Server thread/INFO]: Villager Villager['Villager'/196235, uuid='e4f5bf50-6a2e-4d80-ac40-5f3227737ecd', l='ServerLevel[world]', x=-1535.70, y=66.05, z=-1021.63, cpos=[-96, -64], tl=38673, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:22:45] [User Authenticator #39/INFO]: UUID of player Dream is e6135a83-d680-39d6-b4be-65a3d8bb97ad
+[09:22:45] [Server thread/INFO]: Dream joined the game
+[09:22:45] [Server thread/INFO]: Dream[/127.54.158.182:49441] logged in with entity id 201501 at ([world]-1540.7, 51.0, -1061.7)
+[09:22:45] [Server thread/INFO]: Villager Villager['Villager'/196246, uuid='88e9dcde-e0d5-440d-b73f-6cb34827759b', l='ServerLevel[world]', x=-1535.32, y=66.29, z=-1019.62, cpos=[-96, -64], tl=38716, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:22:51] [Server thread/INFO]: Villager Villager['Villager'/196239, uuid='1d4be2b5-0b94-4192-8984-663151c1e736', l='ServerLevel[world]', x=-1535.70, y=66.05, z=-1021.94, cpos=[-96, -64], tl=38858, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:22:52] [Server thread/INFO]: Villager Villager['Villager'/196237, uuid='4d3804da-089b-49ef-b547-786d9272af6b', l='ServerLevel[world]', x=-1535.30, y=66.05, z=-1022.13, cpos=[-96, -64], tl=38895, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:22:59] [Server thread/INFO]: Villager Villager['Villager'/196252, uuid='0f4a8277-d518-4fd9-bf8c-2f97c4c56575', l='ServerLevel[world]', x=-1535.30, y=66.05, z=-1021.59, cpos=[-96, -64], tl=38981, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:23:26] [Server thread/INFO]: Villager Villager['Villager'/200609, uuid='b91e968a-b63b-463a-b61d-8244e7167a8e', l='ServerLevel[world]', x=-1535.85, y=66.03, z=-1023.85, cpos=[-96, -64], tl=9597, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:23:29] [Server thread/INFO]: Villager Villager['Villager'/196245, uuid='d193c448-c082-4af9-878c-e154b1d61520', l='ServerLevel[world]', x=-1535.30, y=66.05, z=-1022.46, cpos=[-96, -64], tl=39588, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:23:30] [Server thread/INFO]: Villager Villager['Villager'/196256, uuid='7ca046bb-d3ac-40a9-8a33-8069ab3947bd', l='ServerLevel[world]', x=-1535.30, y=66.05, z=-1022.47, cpos=[-96, -64], tl=39559, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:23:36] [Server thread/INFO]: Villager Villager['Villager'/196240, uuid='8b8d6518-c447-4f25-8d3d-445f008d3512', l='ServerLevel[world]', x=-1535.70, y=66.05, z=-1021.88, cpos=[-96, -64], tl=39748, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:23:36] [Server thread/INFO]: Villager Villager['Villager'/196253, uuid='83143b18-f454-4020-866c-1e7438983e22', l='ServerLevel[world]', x=-1535.70, y=66.05, z=-1021.31, cpos=[-96, -64], tl=39705, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:23:37] [Server thread/INFO]: Villager Villager['Villager'/196254, uuid='2a2a3db5-ac35-4de3-bb2b-3807b85457a3', l='ServerLevel[world]', x=-1535.70, y=66.05, z=-1019.43, cpos=[-96, -64], tl=39708, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:23:38] [Server thread/INFO]: Villager Villager['Villager'/196249, uuid='f611c4a0-0d23-4cce-86e8-8bed8d2ce9ae', l='ServerLevel[world]', x=-1535.70, y=66.04, z=-1023.70, cpos=[-96, -64], tl=39760, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:23:41] [Server thread/INFO]: Villager Villager['Villager'/194916, uuid='f09c1c41-57b9-4647-88b0-8cc2b621641e', l='ServerLevel[world]', x=-1535.30, y=66.04, z=-1023.70, cpos=[-96, -64], tl=61058, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:23:43] [Server thread/INFO]: XxClemexX issued server command: /give XxClemexX minecraft:emerald 64
+[09:23:43] [Server thread/INFO]: [XxClemexX: Gave 64 [Emerald] to XxClemexX]
+[09:23:43] [Server thread/INFO]: Villager Villager['Villager'/196241, uuid='e18ac386-eb3b-4ac7-ba96-d2f3f1069787', l='ServerLevel[world]', x=-1535.30, y=66.04, z=-1023.70, cpos=[-96, -64], tl=39880, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:23:43] [Server thread/INFO]: Villager Villager['Villager'/196255, uuid='9655faea-7c2b-407b-acbf-bbc24caf46a6', l='ServerLevel[world]', x=-1535.30, y=66.05, z=-1023.70, cpos=[-96, -64], tl=39835, v=true] died, message: 'Villager was slain by Zombie Villager'
+[09:23:45] [Async Chat Thread - #117/INFO]: [Not Secure] <Dream> Leave me alone
+[09:24:15] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[09:24:15] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[09:24:45] [Async Chat Thread - #117/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[09:24:53] [Server thread/INFO]: XxClemexX has completed the challenge [Serious Dedication]
+[09:25:35] [Server thread/INFO]: XxClemexX issued server command: /advancement revoke XxClemexX only serious dedication
+[09:25:45] [Async Chat Thread - #119/INFO]: [Not Secure] <Dream> Where are in a manhunt!
+[09:25:59] [Server thread/INFO]: Villager Villager['Librarian'/177177, uuid='b0824b3e-3fec-449f-8390-56d6669b831d', l='ServerLevel[world]', x=-1542.34, y=50.00, z=-1046.31, cpos=[-97, -66], tl=162324, v=true] died, message: 'Librarian was slain by Panfiloberto'
+[09:26:24] [Server thread/INFO]: XxClemexX issued server command: /advancement revoke XxClemexX only minecraft:husbandry/obtain_netherite_hoe
+[09:26:24] [Server thread/INFO]: [XxClemexX: Revoked the advancement [Serious Dedication] from XxClemexX]
+[09:26:31] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[09:26:31] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[09:26:45] [Async Chat Thread - #120/INFO]: [Not Secure] <Dream> Leave me alone
+[09:27:25] [Server thread/INFO]: Villager Villager['Librarian'/177213, uuid='0f2cef21-f383-4659-85fc-10e4d268f598', l='ServerLevel[world]', x=-1542.30, y=50.00, z=-1044.30, cpos=[-97, -66], tl=164042, v=true] died, message: 'Librarian was slain by Panfiloberto'
+[09:27:45] [Async Chat Thread - #120/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[09:28:01] [Server thread/INFO]: XxClemexX issued server command: /tp Dream XxClemexX
+[09:28:01] [Server thread/INFO]: [XxClemexX: Teleported Dream to XxClemexX]
+[09:28:05] [Server thread/INFO]: Villager Villager['Librarian'/177214, uuid='8cd4c28f-6aff-450e-aab7-d948ad81185a', l='ServerLevel[world]', x=-1542.30, y=50.00, z=-1048.70, cpos=[-97, -66], tl=164842, v=true] died, message: 'Librarian was slain by Panfiloberto'
+[09:28:07] [Server thread/INFO]: XxClemexX issued server command: /effect clear Dream
+[09:28:07] [Server thread/INFO]: [XxClemexX: Removed every effect from Dream]
+[09:28:12] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[09:28:12] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
