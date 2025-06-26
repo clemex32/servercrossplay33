@@ -1868,3 +1868,41 @@
 [07:25:31] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username TRexGamer360520
 [07:25:31] [localSession-7-1/INFO]: [Geyser-Spigot] TRexGamer360520 (logged in as: TRexGamer360520) has connected to the Java server
 [07:25:31] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 joined (UUID: 00000000-0000-0000-0009-01fb13c67cda)
+[07:25:31] [Server thread/INFO]: .TRexGamer360520 joined the game
+[07:25:31] [Server thread/INFO]: .TRexGamer360520[/127.0.0.1:0] logged in with entity id 181490 at ([world]214.62778, 64.0, 104.71431)
+[07:25:59] [Async Chat Thread - #94/INFO]: [Not Secure] <.TRexGamer360520> .
+[07:26:07] [Async Chat Thread - #94/INFO]: [Not Secure] <Dream> Leave me alone
+[07:26:12] [Server thread/WARN]: .TRexGamer360520 was kicked for floating too long!
+[07:26:12] [Server thread/INFO]: .TRexGamer360520 lost connection: Flying is not enabled on this server
+[07:26:12] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 disconnected
+[07:26:12] [localSession-7-1/INFO]: [Geyser-Spigot] TRexGamer360520 has disconnected from the Java server because of Flying is not enabled on this server
+[07:26:12] [Server thread/INFO]: .TRexGamer360520 left the game
+[07:27:07] [Async Chat Thread - #94/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[07:28:07] [Async Chat Thread - #94/INFO]: [Not Secure] <Dream> Where are in a manhunt!
+[07:29:07] [Async Chat Thread - #94/INFO]: [Not Secure] <Dream> Leave me alone
+[07:30:07] [Async Chat Thread - #94/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[07:30:20] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[07:30:20] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[07:30:23] [Server thread/INFO]: XxClemexX issued server command: /tp Dream XxClemexX
+[07:30:23] [Server thread/INFO]: [XxClemexX: Teleported Dream to XxClemexX]
+[07:30:27] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[07:30:27] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[07:30:32] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[07:30:32] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[07:30:35] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[07:30:35] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[07:30:38] [Server thread/INFO]: XxClemexX issued server command: /tp Dream XxClemexX
+[07:30:38] [Server thread/INFO]: [XxClemexX: Teleported Dream to XxClemexX]
+[07:31:07] [Async Chat Thread - #94/INFO]: [Not Secure] <Dream> Where are in a manhunt!
+[07:32:07] [Async Chat Thread - #94/INFO]: [Not Secure] <Dream> Leave me alone
+[07:33:07] [Async Chat Thread - #94/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[07:33:15] [Server thread/INFO]: Dream was slain by XxClemexX
+[07:33:46] [Server thread/INFO]: XxClemexX issued server command: /tp Dream XxClemexX
+[07:33:46] [Server thread/INFO]: [XxClemexX: Teleported Dream to XxClemexX]
+[07:34:07] [Async Chat Thread - #94/INFO]: [Not Secure] <Dream> Where are in a manhunt!
+[07:34:08] [Server thread/INFO]: XxClemexX issued server command: /spark tps
+[07:35:07] [Async Chat Thread - #94/INFO]: [Not Secure] <Dream> Leave me alone
+[07:35:34] [Server thread/INFO]: XxClemexX issued server command: /gsit:gspin
+[07:35:47] [Server thread/INFO]: XxClemexX issued server command: /gsit:gsitrl
+[07:35:48] [Server thread/INFO]: [GSit] New version available: 2.4.1! [GSit] Current version: 2.4.0! [GSit] Download the latest version: [GSit] https://www.spigotmc.org/resources/62325
+[07:35:55] [Server thread/INFO]: XxClemexX issued server command: /gsit:gbellyflop
