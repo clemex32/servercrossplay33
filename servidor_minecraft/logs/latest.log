@@ -2008,3 +2008,43 @@
 [08:06:06] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Subscibe To Dream!
 [08:06:48] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
 [08:06:48] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[08:06:59] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[08:06:59] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[08:07:07] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Where are in a manhunt!
+[08:08:06] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Leave me alone
+[08:09:06] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[08:09:14] [Server thread/INFO]: XxClemexX lost connection: Disconnected
+[08:09:14] [Server thread/INFO]: XxClemexX left the game
+[08:10:06] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Where are in a manhunt!
+[08:11:03] [User Authenticator #37/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
+[08:11:05] [Server thread/INFO]: XxClemexX lost connection: Disconnected
+[08:11:05] [Server thread/INFO]: XxClemexX left the game
+[08:11:06] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Leave me alone
+[08:11:08] [User Authenticator #37/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
+[08:11:09] [Server thread/INFO]: XxClemexX joined the game
+[08:11:09] [Server thread/INFO]: XxClemexX[/127.9.132.109:33817] logged in with entity id 190504 at ([world]2527.3442686609737, -50.0, -4323.079544470944)
+[08:11:25] [Server thread/INFO]: XxClemexX issued server command: /give caseellii minecraft:emerald 64
+[08:11:25] [Server thread/INFO]: [XxClemexX: Gave 64 [Emerald] to caseellii]
+[08:11:59] [Async Chat Thread - #101/INFO]: [Not Secure] <XxClemexX> sharpness
+[08:12:07] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[08:13:07] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Where are in a manhunt!
+[08:13:13] [Server thread/INFO]: XxClemexX issued server command: /tp Dream XxClemexX
+[08:13:13] [Server thread/INFO]: [XxClemexX: Teleported Dream to XxClemexX]
+[08:13:22] [Server thread/INFO]: Dream was slain by XxClemexX
+[08:13:48] [Server thread/INFO]: XxClemexX issued server command: /effect give Dream minecraft:resistance infinite 99
+[08:13:48] [Server thread/INFO]: [XxClemexX: Applied effect Resistance to Dream]
+[08:13:54] [Server thread/INFO]: XxClemexX issued server command: /tp Dream caseellii
+[08:13:54] [Server thread/INFO]: [XxClemexX: Teleported Dream to caseellii]
+[08:14:07] [Async Chat Thread - #105/INFO]: [Not Secure] <Dream> Leave me alone
+[08:15:07] [Async Chat Thread - #105/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[08:15:34] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[08:15:34] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[08:15:45] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[08:15:45] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[08:15:52] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[08:15:52] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[08:16:00] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[08:16:00] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[08:16:06] [Async Chat Thread - #105/INFO]: [Not Secure] <Dream> Where are in a manhunt!
+[08:16:27] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
+[08:16:27] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
