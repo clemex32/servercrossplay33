@@ -147,3 +147,44 @@
 [02:29:13] [Server thread/INFO]: Mr_Martin14[/127.81.228.47:50695] logged in with entity id 23462 at ([world]8305.387550728925, -19.0, -5884.856571986452)
 [02:30:12] [Server thread/INFO]: Mr_Martin14 was shot by Stray
 [02:30:20] [Async Chat Thread - #12/INFO]: [Not Secure] <TRexGamer250> jajaja
+[02:37:56] [Server thread/INFO]: WaPapAu19 has reached the goal [Revaulting]
+[02:38:09] [User Authenticator #6/INFO]: UUID of player Farfadox is 8d19beeb-ffc5-33cb-bb7a-01932b30617e
+[02:38:09] [Server thread/INFO]: Farfadox joined the game
+[02:38:09] [Netty Epoll Server IO #1/WARN]: [ViaVersion] (1.17->1.16.4) Increased world height is NOT SUPPORTED for 1.16 players and below. They will see a void below y 0 and above 256. You can enable the `bedrock-at-y-0` config option to replace the air with a bedrock layer.
+[02:38:09] [Server thread/INFO]: Farfadox[/127.56.91.56:50681] logged in with entity id 26023 at ([world]4.5, 69.0, -3.5)
+[02:38:16] [Async Chat Thread - #13/INFO]: [Not Secure] <Mr_Martin14> ?
+[02:38:24] [Server thread/INFO]: Farfadox lost connection: Disconnected
+[02:38:24] [Server thread/INFO]: Farfadox left the game
+[02:40:15] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username TRexGamer360520
+[02:40:15] [localSession-7-2/INFO]: [Geyser-Spigot] TRexGamer360520 (logged in as: TRexGamer360520) has connected to the Java server
+[02:40:16] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 joined (UUID: 00000000-0000-0000-0009-01fb13c67cda)
+[02:40:16] [Server thread/INFO]: .TRexGamer360520 joined the game
+[02:40:16] [Server thread/INFO]: .TRexGamer360520[/127.0.0.1:0] logged in with entity id 26840 at ([world]-1.5, 65.0, 1.5)
+[02:40:26] [Async Chat Thread - #15/INFO]: [Not Secure] <TRexGamer250> let´s gooo
+[02:40:33] [Async Chat Thread - #16/INFO]: [Not Secure] <XxClemexX> multicuentas
+[02:40:38] [Async Chat Thread - #16/INFO]: [Not Secure] <XxClemexX> lo iso de nuevo
+[02:40:43] [Async Chat Thread - #15/INFO]: [Not Secure] <Mr_Martin14> es tu cuenta de bedrock no?
+[02:40:43] [Async Chat Thread - #15/INFO]: [Not Secure] <XxClemexX> hizo
+[02:40:54] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] TRexGamer360520 has disconnected from the Java server because of Bedrock client timed out
+[02:40:54] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 disconnected
+[02:40:54] [Server thread/INFO]: .TRexGamer360520 lost connection: Disconnected
+[02:40:54] [Server thread/INFO]: .TRexGamer360520 left the game
+[02:41:22] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username TRexGamer360520
+[02:41:22] [localSession-7-3/INFO]: [Geyser-Spigot] TRexGamer360520 (logged in as: TRexGamer360520) has connected to the Java server
+[02:41:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 joined (UUID: 00000000-0000-0000-0009-01fb13c67cda)
+[02:41:22] [Server thread/INFO]: .TRexGamer360520 joined the game
+[02:41:22] [Server thread/INFO]: .TRexGamer360520[/127.0.0.1:0] logged in with entity id 27501 at ([world]-1.5, 65.0, 1.5)
+[02:41:37] [Server thread/INFO]: TRexGamer250 issued server command: /msg XxClemexX vegettagaymer777
+[02:41:58] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] TRexGamer360520 has disconnected from the Java server because of Bedrock client timed out
+[02:41:58] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .TRexGamer360520 disconnected
+[02:41:58] [Server thread/INFO]: .TRexGamer360520 lost connection: Disconnected
+[02:41:58] [Server thread/INFO]: .TRexGamer360520 left the game
+[02:42:51] [Server thread/INFO]: TRexGamer250 issued server command: /msg XxClemexX VegettaGaymer
+[02:43:42] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username TRexGamer360520
+[02:43:42] [localSession-7-4/INFO]: [Geyser-Spigot] TRexGamer360520 (logged in as: TRexGamer360520) has connected to the Java server
+[02:43:43] [User Authenticator #7/INFO]: UUID of player TRexGamer360520 is ac93d753-24a5-36fb-9169-b06a7596b602
+[02:43:43] [Server thread/INFO]: TRexGamer360520 joined the game
+[02:43:43] [Server thread/INFO]: TRexGamer360520[/127.0.0.1:0] logged in with entity id 28425 at ([world]0.5, 67.0, 9.5)
+[02:43:55] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] TRexGamer360520 has disconnected from the Java server because of Bedrock client timed out
+[02:43:55] [Server thread/INFO]: TRexGamer360520 lost connection: Disconnected
+[02:43:55] [Server thread/INFO]: TRexGamer360520 left the game
