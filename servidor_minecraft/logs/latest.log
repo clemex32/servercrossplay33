@@ -1986,3 +1986,25 @@
 [07:56:27] [Server thread/INFO]: XxClemexX issued server command: /give caseellii minecraft:emerald 9
 [07:56:27] [Server thread/INFO]: [XxClemexX: Gave 9 [Emerald] to caseellii]
 [07:56:32] [Server thread/INFO]: caseellii has made the advancement [What a Deal!]
+[07:57:07] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[07:58:07] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Where are in a manhunt!
+[07:59:07] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Leave me alone
+[08:00:07] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[08:01:04] [Server thread/INFO]: Dream was slain by XxClemexX
+[08:01:06] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Where are in a manhunt!
+[08:01:17] [Server thread/INFO]: XxClemexX issued server command: /tp Dream XxClemexX
+[08:01:17] [Server thread/INFO]: [XxClemexX: Teleported Dream to XxClemexX]
+[08:02:06] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Leave me alone
+[08:02:25] [Server thread/INFO]: XxClemexX issued server command: /give caseellii minecraft:emerald 64
+[08:02:25] [Server thread/INFO]: [XxClemexX: Gave 64 [Emerald] to caseellii]
+[08:03:06] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[08:03:40] [Server thread/INFO]: Dream was slain by XxClemexX
+[08:03:43] [Server thread/INFO]: XxClemexX issued server command: /tp Dream XxClemexX
+[08:03:43] [Server thread/INFO]: [XxClemexX: Teleported Dream to XxClemexX]
+[08:04:07] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Where are in a manhunt!
+[08:04:12] [Server thread/INFO]: XxClemexX issued server command: /tp @s 2504 -49.5 -4326
+[08:04:12] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2504.500000, -49.500000, -4325.500000]
+[08:05:06] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Leave me alone
+[08:06:06] [Async Chat Thread - #101/INFO]: [Not Secure] <Dream> Subscibe To Dream!
+[08:06:48] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[08:06:48] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
